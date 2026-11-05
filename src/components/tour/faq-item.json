@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_tour_faq_items",
+  "info": {
+    "displayName": "faq-item",
+    "icon": "question"
+  },
+  "options": {},
+  "attributes": {
+    "question": {
+      "type": "string",
+      "required": true
+    },
+    "answer": {
+      "type": "text"
+    },
+    "order": {
+      "type": "integer"
+    }
+  },
+  "config": {}
+}

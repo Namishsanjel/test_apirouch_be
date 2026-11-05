@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_tour_extra_sections",
+  "info": {
+    "displayName": "extra-section",
+    "icon": "file-alt"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "body": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}

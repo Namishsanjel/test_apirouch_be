@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_tour_snapshot_rows",
+  "info": {
+    "displayName": "snapshot-row",
+    "icon": "table"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string",
+      "required": true
+    },
+    "value": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}

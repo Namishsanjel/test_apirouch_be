@@ -105,4 +105,3 @@ published-and-grouped data the navbar reads, then deletes it.
 ---
 
 <sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
-# test_apirouch_be

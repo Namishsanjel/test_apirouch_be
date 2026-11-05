@@ -1,0 +1,56 @@
+{
+  "kind": "collectionType",
+  "collectionName": "trip_requests",
+  "info": {
+    "singularName": "trip-request",
+    "pluralName": "trip-requests",
+    "displayName": "Trip Request"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true,
+      "maxLength": 120
+    },
+    "email": {
+      "type": "email",
+      "required": true
+    },
+    "destination": {
+      "type": "string",
+      "maxLength": 120
+    },
+    "travelDate": {
+      "type": "date"
+    },
+    "group": {
+      "type": "string",
+      "maxLength": 60
+    },
+    "preferences": {
+      "type": "string",
+      "maxLength": 120
+    },
+    "budget": {
+      "type": "string",
+      "maxLength": 60
+    },
+    "message": {
+      "type": "text",
+      "maxLength": 2000
+    },
+    "status": {
+      "type": "enumeration",
+      "enum": [
+        "new",
+        "contacted",
+        "closed"
+      ],
+      "default": "new"
+    }
+  }
+}
