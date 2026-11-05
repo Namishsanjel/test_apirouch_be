@@ -39,43 +39,74 @@ Over ten days you travel from Kathmandu to the lakeside city of Pokhara, then wa
 
 ### Day 1: Drive Kathmandu to Pokhara (about 820 m), 6 to 7 hours
 
-Your guide collects you early in the morning and walks with you to the tourist bus station, around ten minutes from Thamel. The highway follows the Trishuli and Marsyangdi river valleys through hills and small towns, and you arrive in Pokhara in the afternoon. Use the free hours to stroll along Phewa Lake, shop for last-minute supplies or enjoy a lakeside dinner. Overnight in a hotel.
+- Guide collects you early and walks with you to the tourist bus station, about ten minutes from Thamel
+- Highway follows the Trishuli and Marsyangdi river valleys through hills and small towns
+- Arrive in Pokhara in the afternoon
+- Free time to stroll Phewa Lake, buy supplies or enjoy a lakeside dinner
+- Overnight in a hotel
 
 ### Day 2: Drive to Nayapul, trek to Ghandruk (1,950 m), 6 to 7 hours
 
-A private vehicle takes you from Pokhara to Nayapul, where the walk begins. You follow the trail through Sauli Bazaar and then climb a steep hillside to Ghandruk, a large Gurung village with slate roofs and a strong Gurkha tradition. From the village you can see Machhapuchhre, Hiunchuli and Annapurna South. Stay overnight in a teahouse.
+- Private vehicle takes you from Pokhara to Nayapul, where the walk begins
+- Follow the trail through Sauli Bazaar
+- Climb a steep hillside to Ghandruk, a large Gurung village with slate roofs and a strong Gurkha tradition
+- See Machhapuchhre, Hiunchuli and Annapurna South from the village
+- Overnight in a teahouse
 
 ### Day 3: Ghandruk to Chhomrong (2,210 m), 5 to 6 hours
 
-The path crosses the Kimrong Danda ridge with many ups and downs, passing forest, farmland and small settlements. You arrive in Chhomrong, a hillside village with terraces and sweeping mountain views. It is the last big settlement before the sanctuary, so this is a good place to buy snacks.
+- Path crosses the Kimrong Danda ridge with many ups and downs
+- Pass forest, farmland and small settlements
+- Arrive in Chhomrong, the last big settlement before the sanctuary
+- Good place to buy snacks for the days ahead
 
 ### Day 4: Chhomrong to Dovan (2,510 m), 5 to 6 hours
 
-The day starts with a long stone staircase down to the Chhomrong Khola and an equally steep climb back up. You pass Sinuwa, then follow a gentler path through bamboo forest to the top of a ridge, followed by an hour of descent to Dovan. It is a day of repeated climbs and drops, so go slowly and drink plenty of water.
+- Long stone staircase down to the Chhomrong Khola, then a steep climb back up
+- Pass Sinuwa, then follow a gentler path through bamboo forest
+- Reach the top of a ridge, then descend about an hour to Dovan
+- Go slowly and drink plenty of water on this up-and-down day
 
 ### Day 5: Dovan to Deurali (3,210 m), 3 to 4 hours
 
-A shorter day through bamboo and rhododendron forest rewards you with growing views. After lunch you walk two more hours toward Deurali, with Annapurna South on one side and Machhapuchhre on the other. Arrive early and rest, because tomorrow takes you into the high sanctuary.
+- Shorter day through bamboo and rhododendron forest with growing views
+- Walk two more hours after lunch toward Deurali
+- Annapurna South on one side and Machhapuchhre on the other
+- Arrive early and rest before the high sanctuary
 
 ### Day 6: Deurali to Annapurna Base Camp (4,130 m), 5 to 6 hours
 
-The trail passes through high alpine forest and crosses several avalanche-prone slopes, where your guide will set a careful pace. You reach Machhapuchhre Base Camp for lunch, surrounded by peaks on every side. The final three hours climb gently over meadows and moraine to Annapurna Base Camp, where the whole south face of the massif towers above you. Spend the evening taking photos and warming up in the teahouse.
+- Trail passes high alpine forest and several avalanche-prone slopes, so follow your guide's pace
+- Reach Machhapuchhre Base Camp for lunch, surrounded by peaks
+- Final three hours climb gently over meadows and moraine to Annapurna Base Camp
+- Spend the evening taking photos and warming up in the teahouse
 
 ### Day 7: Annapurna Base Camp to Bamboo (2,345 m), 5 to 6 hours
 
-If the sky is clear, catch the sunrise on the peaks, then eat breakfast and start the descent along the same trail. You lose about 1,700 m of altitude as you follow the Modi Khola down to Bamboo. The air gets warmer and thicker with each hour, and legs often feel the descent more than the climb. Overnight in a teahouse.
+- Catch the sunrise on the peaks if the sky is clear, then eat breakfast and descend
+- Lose about 1,700 m of altitude along the Modi Khola
+- Air gets warmer and thicker, and legs often feel the descent
+- Overnight in a teahouse
 
 ### Day 8: Bamboo to Jhinu Danda (1,760 m), 6 to 7 hours
 
-The trail climbs to Kuldi Ghar and Sinuwa, then follows stone steps to Lower Chhomrong and up through the village. From there you descend on a steep path to Jhinu Danda. After you check in, walk about 20 minutes to the natural hot springs and soak away the fatigue of the trek.
+- Trail climbs to Kuldi Ghar and Sinuwa, then follows stone steps to Lower Chhomrong
+- Continue up through Chhomrong, then descend a steep path to Jhinu Danda
+- After check-in, walk about 20 minutes to the natural hot springs
+- Soak away the fatigue of the trek
 
 ### Day 9: Jhinu Danda to Siwai, then drive to Pokhara, 5 to 6 hours
 
-This is one of the easiest days. The trail is mostly flat beside the Modi Khola, with rice paddies and green hills on the way. At Siwai you take a shared jeep or bus to Nayapul, then a private vehicle on to Pokhara. In the evening you can walk by the lake, celebrate with dinner and enjoy a hot shower.
+- One of the easiest days, mostly flat beside the Modi Khola
+- Pass rice paddies and green hills on the way
+- At Siwai take a shared jeep or bus to Nayapul, then a private vehicle to Pokhara
+- Evening walk by the lake, celebratory dinner and a hot shower
 
 ### Day 10: Drive Pokhara to Kathmandu (1,350 m), 6 to 7 hours
 
-After breakfast you take the tourist bus back to Kathmandu along the same highway. You are transferred to your hotel and can spend the evening in Thamel buying souvenirs and a last Nepali meal.
+- After breakfast take the tourist bus back to Kathmandu along the same highway
+- Transfer to your hotel
+- Spend the evening in Thamel buying souvenirs and a last Nepali meal
 
 ## What is included
 

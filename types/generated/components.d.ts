@@ -38,6 +38,7 @@ export interface TourItineraryDay extends Struct.ComponentSchema {
     dayLabel: Schema.Attribute.String;
     durationText: Schema.Attribute.String;
     order: Schema.Attribute.Integer;
+    points: Schema.Attribute.JSON;
     title: Schema.Attribute.String;
   };
 }

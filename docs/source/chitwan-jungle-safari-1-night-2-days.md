@@ -37,11 +37,20 @@ It is a good add-on to a Kathmandu or Pokhara trip, and it can be a break betwee
 
 ### Day 1: Kathmandu or Pokhara to Chitwan, jeep safari and Tharu culture program
 
-Your driver collects you at your hotel in Kathmandu or Pokhara at about 7:00 a.m. The drive to Chitwan takes you through river valleys and the green lowlands of the Terai, and the journey takes roughly four to six hours depending on your starting city and traffic. At your lodge you check in and enjoy lunch. In the afternoon your naturalist leads a jeep safari into the park, a good time for wildlife, as animals become active in the cooler hours. Keep an eye out for rhinos, spotted deer, wild boar, monkeys and colorful birds. After dark you watch the Tharu cultural program, with its stick dances and drum music, and then dine at the lodge. Overnight stay in the lodge.
+- Driver collects you at your hotel in Kathmandu or Pokhara at about 7:00 a.m.
+- Drive to Chitwan through river valleys and the green lowlands of the Terai, taking roughly four to six hours
+- Check in at your lodge and enjoy lunch
+- Afternoon jeep safari into the park with your naturalist, looking for rhinos, spotted deer, wild boar, monkeys and birds
+- After dark watch the Tharu cultural program with stick dances and drum music
+- Dine at the lodge and stay overnight in the lodge
 
 ### Day 2: Canoe ride, jungle walk, elephant breeding center and return
 
-After breakfast at about 7:30 a.m. you board a dugout canoe for a quiet ride along the river, where you may spot crocodiles, kingfishers and other birds on the banks. Next comes a guided walk through the forest with your naturalist, who explains animal tracks, plants and safety rules. You then visit the elephant breeding center and learn about the park’s conservation work. Back at the lodge you freshen up and check out, then drive back to Kathmandu or Pokhara, where you are dropped at your hotel.
+- After breakfast at about 7:30 a.m. board a dugout canoe for a quiet ride along the river
+- Look for crocodiles, kingfishers and other birds on the banks
+- Guided walk through the forest with your naturalist, who explains animal tracks, plants and safety rules
+- Visit the elephant breeding center and learn about the park's conservation work
+- Back at the lodge, freshen up and check out, then drive back to Kathmandu or Pokhara and your hotel
 
 ## What is included
 

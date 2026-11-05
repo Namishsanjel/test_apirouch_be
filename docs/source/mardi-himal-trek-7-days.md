@@ -38,31 +38,48 @@ The route is steady and suitable for trekkers of average fitness. You stay in si
 
 ### Day 1: Drive Kathmandu to Pokhara (about 820 m), 6 to 7 hours
 
-Your trek begins with a road journey to Pokhara, a lake city at the foot of the Annapurnas. You check in to a lakeside hotel near Phewa Lake, where shops, restaurants and bars line the street. If you prefer, a scenic 30-minute flight can replace the bus ride.
+- Trek begins with a road journey to Pokhara, a lake city at the foot of the Annapurnas
+- Check in to a lakeside hotel near Phewa Lake, where shops, restaurants and bars line the street
+- A scenic 30-minute flight can replace the bus ride if you prefer
 
 ### Day 2: Drive to Kande, trek to Pritam Deurali (2,100 m), 4 to 5 hours
 
-A short drive takes you to Kande, the trailhead. From here the path climbs through forest and small villages with views of the mountains opening up as you rise. You arrive at Pritam Deurali for sunset and a quiet evening in the hills.
+- Short drive takes you to Kande, the trailhead
+- Path climbs through forest and small villages with mountain views opening up as you rise
+- Arrive at Pritam Deurali for sunset and a quiet evening in the hills
 
 ### Day 3: Pritam Deurali to Forest Camp (2,600 m), 5 to 6 hours
 
-The trail follows a ridge through dense, tranquil forest, with glimpses of the peaks through the trees. The path is well worn and the walking is steady. You reach Forest Camp in the afternoon, a calm spot surrounded by woods.
+- Trail follows a ridge through dense, tranquil forest, with glimpses of the peaks through the trees
+- Path is well worn and the walking is steady
+- Reach Forest Camp in the afternoon, a calm spot surrounded by woods
 
 ### Day 4: Forest Camp to Low Camp (3,150 m), 4 to 5 hours
 
-The forest changes character today. Cloud and moisture coat the trees in moss and lichen, orchids cling to branches, and the air turns cooler. Now and then the trees part to reveal Machhapuchhre, Mardi Himal and the Annapurna range. Arrive at Low Camp early and rest.
+- Forest changes character, with moss and lichen coating the trees and orchids clinging to branches
+- Air turns cooler, and the trees part now and then to reveal Machhapuchhre, Mardi Himal and the Annapurna range
+- Arrive at Low Camp early and rest
 
 ### Day 5: Low Camp to High Camp (3,580 m), 5 to 6 hours
 
-An early start brings you above the tree line to the highest point on the main trek, where the peaks seem close enough to touch. The vast face of Mardi Himal shows the true scale of the mountains. You climb higher in the day for better views, then return to High Camp for the evening.
+- Early start brings you above the tree line to the highest point on the main trek
+- The vast face of Mardi Himal shows the true scale of the mountains
+- Climb higher in the day for better views, then return to High Camp for the evening
 
 ### Day 6: High Camp to Mardi Himal Base Camp (4,500 m) and down to Low Camp (3,150 m), 7 to 8 hours
 
-Watch the sunrise, eat a hearty breakfast and set out for Mardi Himal Base Camp, passing a viewpoint with an enormous snow-peak panorama. After spending time at the top you return and descend through cool forest, losing about 1,400 m in altitude, and stay overnight at Low Camp.
+- Watch the sunrise, eat a hearty breakfast and set out for Mardi Himal Base Camp
+- Pass a viewpoint with an enormous snow-peak panorama
+- After time at the top, return and descend through cool forest, losing about 1,400 m
+- Overnight at Low Camp
 
 ### Day 7: Trek to Siding Village (1,280 m) and drive to Pokhara, 6 to 7 hours
 
-The final day is downhill, dropping about 1,800 m on a trail beside the Mardi Khola. You cross suspension bridges, pass farms and fields and enter Siding, a village known for the honey hunters who harvest wild beehives from cliff faces by rope. After lunch you drive to Pokhara. If you have energy, visit Mahendra Cave, Devi’s Fall or the lakeside for dinner. From Pokhara you can continue to Kathmandu by tourist bus or by flight the next morning.
+- Final day is downhill, dropping about 1,800 m on a trail beside the Mardi Khola
+- Cross suspension bridges, pass farms and fields and enter Siding, known for its honey hunters
+- After lunch drive to Pokhara
+- If you have energy, visit Mahendra Cave, Devi's Fall or the lakeside for dinner
+- From Pokhara continue to Kathmandu by tourist bus or by flight the next morning
 
 ## What is included
 

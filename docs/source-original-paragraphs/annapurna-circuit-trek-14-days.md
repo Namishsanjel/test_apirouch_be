@@ -1,0 +1,129 @@
+# Annapurna Circuit Trek 14 Days: Manang, Thorong La Pass, Muktinath, Poon Hill
+
+**SEO title:** Annapurna Circuit Trek 14 Days Itinerary | Thorong La Pass 5,416 m
+
+**Meta description:** Walk the Annapurna Circuit in 14 days. Marsyangdi Valley, Manang acclimatization, Thorong La Pass at 5,416 m, Muktinath, Tatopani hot springs and Poon Hill sunrise, day by day.
+
+**Focus keywords:** Annapurna Circuit trek, Annapurna Circuit 14 days, Thorong La Pass, Manang acclimatization, Muktinath temple, Poon Hill sunrise.
+
+## Trip overview
+
+The Annapurna Circuit is one of the most celebrated long-distance treks in the world. In a single route you move from subtropical river valleys to the Tibetan-influenced high country of Manang, cross the Thorong La Pass at 5,416 m, and then descend through the deep Kali Gandaki Gorge, where Dhaulagiri and Annapurna I stand on opposite sides of the world’s deepest river valley.
+
+This 14-day version uses road transport at the start and end to trim the walking and keeps the best of the circuit: the Marsyangdi gorge, Pisang and Manang, the pass, Muktinath and the Poon Hill sunrise. Walking the circuit counterclockwise gives a gradual climb and a better acclimatization profile than the opposite direction, and a rest day in Manang prepares you for the crossing. Along the trail you meet Gurung, Manangi and Thakali communities, each with their own food, faith and architecture.
+
+## Trip snapshot
+
+| Detail        | Information                                              |
+|---------------|----------------------------------------------------------|
+| Duration      | 14 days                                                  |
+| Start and end | Kathmandu                                                |
+| Highest point | Thorong La Pass, 5,416 m                                 |
+| Daily walking | 5 to 7 hours, up to 9 on pass day                        |
+| Grade         | Moderate to demanding                                    |
+| Accommodation | Hotels in Kathmandu and Pokhara, teahouses on the trail  |
+| Permits       | ACAP and TIMS, arranged for you                          |
+| Best season   | Autumn (September to November) and spring (March to May) |
+
+## Trip highlights
+
+- Marsyangdi River gorge, waterfalls and the Paungda Danda rock wall
+- Upper Pisang, Ghyaru and Ngawal high-trail villages with Annapurna views
+- Acclimatization day in Manang, with a free altitude talk at the Himalayan Rescue Association clinic
+- Crossing Thorong La Pass at 5,416 m
+- Muktinath, a holy site for Hindus and Buddhists, with 108 water spouts
+- Drive through the Kali Gandaki Gorge and the old trading town of Tukuche
+- Tatopani hot springs and sunrise at Poon Hill (3,210 m)
+
+## Day-by-day itinerary
+
+### Day 1: Arrival in Kathmandu (1,350 m)
+
+You are met at the airport and taken to your hotel. In the afternoon your guide briefs you on the route, permits and equipment, and you can explore Thamel while you adjust to the time zone and prepare for the trek.
+
+### Day 2: Drive Kathmandu to Syange (1,100 m), 7 to 8 hours
+
+The road climbs out of the valley past terraced rice fields, hillside villages and roaring rivers. It reaches Besisahar (760 m) in Lamjung District, the last town with banks, ATMs and pharmacies, so withdraw cash and top up supplies here. A rougher road follows the Marsyangdi River to Syange, a small village by a waterfall and suspension bridge. Your first teahouse night comes with a plate of dal bhat.
+
+### Day 3: Syange to Bagarchhap (2,160 m), 5 to 6 hours
+
+The climb of roughly 1,060 m takes you deeper into the Marsyangdi gorge through rhododendron, pine and bamboo forest, beside waterfalls. You pass the permit checkpoint at Jagat (1,300 m) and reach Dharapani (1,960 m), a junction where the Dudh Khola joins the Marsyangdi. Pines replace subtropical trees as you rise, and langur monkeys swing through the canopy. Bagarchhap, with stone-roofed houses and prayer wheels, shows the first strong Tibetan influence.
+
+### Day 4: Bagarchhap to Chame (2,670 m), 5 to 6 hours
+
+You continue through spruce and pine forest and the villages of Danaque, Timang and Thanchok. The scenery turns alpine, with views of Lamjung Himal and Annapurna II (7,937 m). Chame, the district headquarters of Manang, has bakeries, trekking shops and better lodges. It is also the last large place to buy supplies before Manang.
+
+### Day 5: Chame to Lower or Upper Pisang (3,200 to 3,310 m), 5 to 6 hours
+
+The valley narrows under the vast curved rock face of Paungda Danda, one of the most dramatic cliffs on the circuit. Suspension bridges cross the river above steep drops. At Lower Pisang (3,200 m) the gorge opens onto a plateau, with the first views of Annapurna III (7,555 m) and Gangapurna (7,455 m). Many trekkers climb a little further to Upper Pisang (3,310 m), where a monastery looks over the valley and the mood is quieter and more authentic.
+
+### Day 6: Pisang to Manang (3,540 m) by the high trail, 7 to 9 hours
+
+This is one of the finest walks of the whole trek. The high route climbs steeply to the old stone village of Ghyaru (3,670 m), with Annapurna II, III, IV and Gangapurna in view, then continues to peaceful Ngawal (3,660 m). The path then flattens and descends to Manang, the largest village on the circuit, with bakeries, gear shops, comfortable lodges and a small cinema that screens mountaineering films. Braga’s monastery, about 500 years old, sits above the valley nearby.
+
+### Day 7: Acclimatization day in Manang (3,540 m)
+
+Above 3,000 m the body needs time to adjust, and the air at Manang holds about 65 percent of sea-level oxygen. Spend the day on a short hike, such as the walk to Gangapurna Lake (3,700 m), the viewpoint at Praken Gompa (3,900 m) or, for strong walkers, a long day toward Ice Lake (4,620 m). Attend the free altitude-awareness talk at the Himalayan Rescue Association clinic. Drink three to four liters of water, eat plenty of carbohydrates and check your warm gear for the pass.
+
+### Day 8: Manang to Yak Kharka (about 4,050 m), 4 to 5 hours
+
+A short day above the tree line, with rock, moraine and open pasture. The trail rises gently to Yak Kharka, a high summer grazing spot for yaks. Take it slowly, rest and drink fluids, because the effects of altitude increase quickly from here.
+
+### Day 9: Yak Kharka to Thorong Phedi (about 4,450 m), 3 to 4 hours
+
+A short but steep climb leads to Thorong Phedi, the base of the pass. In the afternoon you rest, rehydrate and prepare your headlamp, layers and poles. Watch the cliffs for blue sheep and the large bearded vulture soaring overhead. Go to bed early, since the next day starts before dawn. Some trekkers prefer to climb on to High Camp (4,925 m) to shorten the pass day, though the colder nights there call for a good sleeping bag.
+
+### Day 10: Cross Thorong La Pass (5,416 m) to Muktinath (about 3,800 m), 7 to 9 hours
+
+Most groups leave between 3:00 and 4:00 a.m. in freezing cold, wearing down jackets, gloves and hats. Reaching the pass takes about four to five hours at a slow pace, with roughly 47 percent of sea-level oxygen. At the top, prayer flags flutter above a stone cairn and the dry landscape of Mustang stretches out, with Dhaulagiri behind it. Afternoon clouds and wind arrive early, so you do not linger long. The descent of about 1,600 m is steep and hard on the knees, and poles help. In Muktinath you can visit the temple complex with its 108 water spouts and eternal flame, a sacred place for both Hindus and Buddhists.
+
+### Day 11: Drive Muktinath to Tatopani (1,190 m)
+
+You descend about 1,480 m through the Kali Gandaki Gorge, between Dhaulagiri (8,167 m) and Annapurna I (8,091 m). The road passes Marpha, Tukuche, Larjung and Ghasa. Tukuche, an old trading town with stone houses and narrow lanes, shows centuries of Himalayan commerce. Strong winds blow through the gorge in the afternoon. The pines give way to subtropical vegetation as you drop, and at Tatopani, whose name means hot water, you can soak in the natural springs and recover after the pass.
+
+### Day 12: Tatopani to Ghorepani (2,874 m), 6 to 7 hours
+
+The final big climb of about 1,684 m starts beside the hot springs. The trail goes through the Gurung village of Shikha (1,935 m), terraced fields and oak, bamboo and rhododendron forest. In March and April the hillside is red, pink and white with blooms. By late afternoon you reach the lively village of Ghorepani, with views of Dhaulagiri and Annapurna South (7,219 m).
+
+### Day 13: Poon Hill sunrise (3,210 m), trek to Nayapul, travel to Kathmandu
+
+Start around 4:30 a.m. for the one-hour climb to Poon Hill. As the sun rises, Dhaulagiri, Annapurna I, Annapurna South, Nilgiri, Hiunchuli and Machhapuchhre glow gold and orange. After breakfast in Ghorepani you walk down through Ulleri and its famous stone staircase, Tikhedhunga and Birethanti, where permits are checked, to Nayapul. A vehicle takes you on to Pokhara and then to Kathmandu. Because the package includes both a Pokhara hotel night and the Pokhara to Kathmandu flight, your guide will confirm whether you fly the same evening or the next morning.
+
+### Day 14: Departure from Kathmandu
+
+After breakfast you are driven to the international airport, normally three hours before your flight. The Annapurna Circuit is over, but the memories of Thorong La, Manang and Poon Hill stay with you.
+
+## What is included
+
+- Airport pickup and drop-off by private vehicle
+- Three nights in a 3-star Kathmandu hotel and one night in Pokhara, with breakfast
+- Kathmandu sightseeing by private vehicle
+- Public bus to Besisahar, shared jeep or bus to Syange and from Jomsom to Pokhara, and the Pokhara to Kathmandu flight
+- Teahouse lodging, three meals a day on the trek and fresh fruit after dinner
+- ACAP permit and TIMS card
+- Licensed English-speaking guide and porter service with insurance (one porter for two trekkers)
+- First-aid kit, daily oximeter checks and emergency helicopter coordination
+- Sleeping bag, down jacket, duffel bag and poles if needed
+- Trek completion certificate and government taxes
+
+## What is not included
+
+- Lunch and dinner in Kathmandu and Pokhara
+- Nepal visa, international flights, travel and medical insurance
+- Drinks, desserts, hot showers and charging on the trail
+- Tips for guide, porters and driver
+- Extra costs if you end the trek early
+
+## Best time to trek
+
+Autumn gives stable weather and crisp mountain views, though lodges fill up. Spring offers moderate temperatures and rhododendron blooms. Winter snow can block the pass, and the monsoon brings heavy rain on the southern side.
+
+## Frequently asked questions
+
+**How hard is the Annapurna Circuit compared with Everest Base Camp?** The difficulty is similar. Everest reaches slightly higher, but the circuit covers more distance and more varied terrain. Thorong La day is the hardest, with a very early start and up to nine hours of walking.
+
+**Can I do the circuit in 14 days?** Yes. Road transport at both ends and a rest day in Manang make it possible without rushing the key acclimatization stages.
+
+**Is Tilicho Lake included?** No. The side trip to Tilicho Lake (4,949 m) is an optional extension of two extra days.
+
+**Do I need a guide?** Solo trekking in the Annapurna region is not allowed, so a registered guide is required. Your guide also helps manage altitude and weather decisions on the pass.

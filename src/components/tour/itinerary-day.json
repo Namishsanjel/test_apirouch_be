@@ -26,6 +26,9 @@
     },
     "durationText": {
       "type": "string"
+    },
+    "points": {
+      "type": "json"
     }
   },
   "config": {}

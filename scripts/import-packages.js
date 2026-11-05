@@ -130,6 +130,24 @@ function bulletItems(text) {
     .map((line) => line.replace(/^[-*]\s+/, '').trim());
 }
 
+/**
+ * The itinerary day body is either a bullet list (the points format) or the
+ * legacy plain paragraph. Bullet lists become an array of points; paragraphs
+ * keep `points` empty so existing content keeps working unchanged.
+ */
+function parseDayBody(body) {
+  const points = bulletItems(body);
+
+  if (points.length) {
+    return {
+      points,
+      body: points.join('. '),
+    };
+  }
+
+  return { points: null, body };
+}
+
 function parseSnapshot(text) {
   const rows = [];
 
@@ -211,6 +229,8 @@ function parseItinerary(text) {
     }
     title = title.replace(/\s*,\s*$/, '').replace(/\s{2,}/g, ' ').trim();
 
+    const dayBody = parseDayBody(current.body.join('\n').trim());
+
     items.push({
       order: items.length + 1,
       day: dayLabel,
@@ -218,7 +238,8 @@ function parseItinerary(text) {
       title: title || rest,
       altitudeText,
       durationText,
-      body: current.body.join('\n').trim(),
+      body: dayBody.body,
+      points: dayBody.points,
     });
 
     current = null;
@@ -477,6 +498,7 @@ function countTableRow(pkg) {
   return {
     slug: pkg.slug,
     itinerary: pkg.itinerary.length,
+    points: pkg.itinerary.reduce((total, day) => total + (day.points ? day.points.length : 0), 0),
     highlights: pkg.highlights.length,
     included: pkg.included.length,
     notIncluded: pkg.notIncluded.length,
@@ -484,6 +506,14 @@ function countTableRow(pkg) {
     extraSections: pkg.extraSections.length,
     snapshot: pkg.snapshotRows.length,
   };
+}
+
+function pointsTableRows(pkg) {
+  return pkg.itinerary.map((day) => ({
+    slug: pkg.slug,
+    day: day.dayLabel,
+    points: day.points ? day.points.length : 0,
+  }));
 }
 
 async function upsertTour(strapi, pkg, order) {
@@ -541,6 +571,8 @@ async function main() {
   }
 
   if (flags.dryRun) {
+    console.log('[import] Points per day:');
+    console.table(parsed.flatMap(pointsTableRows));
     console.log('[import] Dry run: no database changes made.');
     return;
   }
