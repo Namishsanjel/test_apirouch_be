@@ -1,0 +1,61 @@
+# Example Nginx reverse proxy for the Strapi API.
+#
+# Install as /etc/nginx/sites-available/apitours and symlink into
+# sites-enabled. Replace api.yourdomain.com with your API subdomain.
+# Then obtain TLS:  sudo certbot --nginx -d api.yourdomain.com
+#
+# The app listens on 127.0.0.1:1337 (see ecosystem.config.js); it is NOT
+# exposed directly to the internet.
+
+# Rate-limit admin login brute-force (optional but recommended).
+limit_req_zone $binary_remote_addr zone=strapi_admin:10m rate=10r/m;
+
+server {
+    listen 80;
+    listen [::]:80;
+    server_name api.yourdomain.com;
+
+    # Certbot will add the HTTPS server block and redirect here automatically.
+    # This file is intentionally HTTP-first so `certbot --nginx` can edit it.
+
+    # Allow large media uploads. Must be >= Strapi's upload size limit.
+    client_max_body_size 100M;
+
+    # Basic security headers.
+    add_header X-Content-Type-Options nosniff always;
+    add_header X-Frame-Options SAMEORIGIN always;
+    add_header Referrer-Policy strict-origin-when-cross-origin always;
+
+    location /admin {
+        limit_req zone=strapi_admin burst=20 nodelay;
+
+        proxy_pass http://127.0.0.1:1337;
+        proxy_http_version 1.1;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+        proxy_set_header X-Forwarded-Host $host;
+        proxy_set_header X-Forwarded-Port $server_port;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection "upgrade";
+    }
+
+    location / {
+        proxy_pass http://127.0.0.1:1337;
+        proxy_http_version 1.1;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+        proxy_set_header X-Forwarded-Host $host;
+        proxy_set_header X-Forwarded-Port $server_port;
+
+        # WebSocket/SSE support (Strapi admin, live features).
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection "upgrade";
+
+        proxy_read_timeout 300s;
+        proxy_send_timeout 300s;
+    }
+}

@@ -4,6 +4,9 @@ const path = require('path');
 const { isDatabaseClientKind } = require('@strapi/database');
 
 module.exports = ({ env }) => {
+  // Local development defaults to SQLite (no setup needed). Production must set
+  // DATABASE_CLIENT=postgres (or mysql) plus the DATABASE_* connection vars —
+  // SQLite is not suitable for a production VPS. See .env.example.
   const client = env('DATABASE_CLIENT', 'sqlite');
 
   if (!isDatabaseClientKind(client)) {

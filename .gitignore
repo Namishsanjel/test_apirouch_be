@@ -1,6 +1,17 @@
 node_modules/
 .env
 .env.*
+!.env.example
 dist/
 build/
 *.log
+
+# Local SQLite database and downloaded seed assets
+.tmp/
+
+# Uploaded media (served from a persistent folder on the server)
+public/uploads/*
+!public/uploads/.gitkeep
+
+# Runtime logs written by PM2
+logs/
