@@ -41,102 +41,154 @@ This 14-day version uses road transport at the start and end to trim the walking
 
 - Met at the airport and taken to your hotel
 - Afternoon briefing with your guide on the route, permits and equipment
-- Explore Thamel while you adjust to the time zone and prepare for the trek
+- Explore Thamel while you adjust to the time zone
+- Prepare for the trek
 
 ### Day 2: Drive Kathmandu to Syange (1,100 m), 7 to 8 hours
 
-- Road climbs out of the valley past terraced rice fields, hillside villages and rivers
-- Reach Besisahar (760 m) in Lamjung District, the last town with banks, ATMs and pharmacies, so withdraw cash and top up supplies
-- Rougher road follows the Marsyangdi River to Syange, a small village by a waterfall and suspension bridge
-- First teahouse night comes with a plate of dal bhat
+- Road climbs out of the valley
+- Past terraced rice fields, hillside villages and roaring rivers
+- Reach Besisahar (760 m) in Lamjung District
+- Last town with banks, ATMs and pharmacies
+- Withdraw cash and top up supplies here
+- Rougher road follows the Marsyangdi River to Syange
+- Syange, a small village by a waterfall and suspension bridge
+- First teahouse night
+- Dinner of dal bhat
 
 ### Day 3: Syange to Bagarchhap (2,160 m), 5 to 6 hours
 
-- Climb of roughly 1,060 m deeper into the Marsyangdi gorge through rhododendron, pine and bamboo forest
+- Climb of roughly 1,060 m
+- Deeper into the Marsyangdi gorge
+- Through rhododendron, pine and bamboo forest beside waterfalls
 - Pass the permit checkpoint at Jagat (1,300 m)
-- Reach Dharapani (1,960 m), a junction where the Dudh Khola joins the Marsyangdi
-- Bagarchhap, with stone-roofed houses and prayer wheels, shows the first strong Tibetan influence
+- Reach Dharapani (1,960 m)
+- Junction where the Dudh Khola joins the Marsyangdi
+- Pines replace subtropical trees as you rise
+- Langur monkeys swing through the canopy
+- Bagarchhap, with stone-roofed houses and prayer wheels
+- First strong Tibetan influence
 
 ### Day 4: Bagarchhap to Chame (2,670 m), 5 to 6 hours
 
-- Continue through spruce and pine forest and the villages of Danaque, Timang and Thanchok
-- Scenery turns alpine, with views of Lamjung Himal and Annapurna II (7,937 m)
-- Chame, the district headquarters of Manang, has bakeries, trekking shops and better lodges
+- Continue through spruce and pine forest
+- Pass the villages of Danaque, Timang and Thanchok
+- Scenery turns alpine
+- Views of Lamjung Himal and Annapurna II (7,937 m)
+- Chame, the district headquarters of Manang
+- Bakeries, trekking shops and better lodges
 - Last large place to buy supplies before Manang
 
 ### Day 5: Chame to Lower or Upper Pisang (3,200 to 3,310 m), 5 to 6 hours
 
-- Valley narrows under the vast curved rock face of Paungda Danda, one of the most dramatic cliffs on the circuit
+- Valley narrows under the vast curved rock face of Paungda Danda
+- One of the most dramatic cliffs on the circuit
 - Suspension bridges cross the river above steep drops
-- At Lower Pisang (3,200 m) the gorge opens onto a plateau, with first views of Annapurna III (7,555 m) and Gangapurna (7,455 m)
-- Many trekkers climb a little further to Upper Pisang (3,310 m), where a monastery looks over the valley
+- At Lower Pisang (3,200 m) the gorge opens onto a plateau
+- First views of Annapurna III (7,555 m) and Gangapurna (7,455 m)
+- Many trekkers climb a little further to Upper Pisang (3,310 m)
+- Monastery looks over the valley
+- Quieter, more authentic mood
 
 ### Day 6: Pisang to Manang (3,540 m) by the high trail, 7 to 9 hours
 
-- High route climbs steeply to the old stone village of Ghyaru (3,670 m), with Annapurna II, III, IV and Gangapurna in view
+- High route climbs steeply to the old stone village of Ghyaru (3,670 m)
+- Annapurna II, III, IV and Gangapurna in view
 - Continue to peaceful Ngawal (3,660 m)
-- Path then flattens and descends to Manang, the largest village on the circuit, with bakeries, gear shops, lodges and a small cinema
-- Braga's monastery, about 500 years old, sits above the valley nearby
+- Path then flattens and descends to Manang
+- Manang, the largest village on the circuit
+- Bakeries, gear shops, comfortable lodges and a small cinema
+- Cinema screens mountaineering films
+- Braga's monastery, about 500 years old, above the valley nearby
 
 ### Day 7: Acclimatization day in Manang (3,540 m)
 
-- Above 3,000 m the body needs time to adjust, and the air at Manang holds about 65 percent of sea-level oxygen
-- Take a short hike, such as Gangapurna Lake (3,700 m) or the viewpoint at Praken Gompa (3,900 m)
-- Strong walkers can make a long day toward Ice Lake (4,620 m)
-- Attend the free altitude-awareness talk at the Himalayan Rescue Association clinic
-- Drink three to four liters of water, eat plenty of carbohydrates and check your warm gear for the pass
+- Above 3,000 m the body needs time to adjust
+- Air at Manang holds about 65 percent of sea-level oxygen
+- Short hike to Gangapurna Lake (3,700 m)
+- Or the viewpoint at Praken Gompa (3,900 m)
+- Strong walkers may attempt a long day toward Ice Lake (4,620 m)
+- Free altitude-awareness talk at the Himalayan Rescue Association clinic
+- Drink three to four liters of water
+- Eat plenty of carbohydrates
+- Check your warm gear for the pass
 
 ### Day 8: Manang to Yak Kharka (about 4,050 m), 4 to 5 hours
 
-- Short day above the tree line, with rock, moraine and open pasture
-- Trail rises gently to Yak Kharka, a high summer grazing spot for yaks
-- Take it slowly, rest and drink fluids as altitude effects increase quickly from here
+- Short day above the tree line
+- Rock, moraine and open pasture
+- Trail rises gently to Yak Kharka
+- A high summer grazing spot for yaks
+- Take it slowly, rest and drink fluids
+- Altitude effects increase quickly from here
 
 ### Day 9: Yak Kharka to Thorong Phedi (about 4,450 m), 3 to 4 hours
 
-- Short but steep climb leads to Thorong Phedi, the base of the pass
-- Afternoon rest, rehydrate and prepare your headlamp, layers and poles
-- Watch the cliffs for blue sheep and the large bearded vulture
-- Go to bed early, since the next day starts before dawn
-- Some trekkers climb on to High Camp (4,925 m) to shorten the pass day, though colder nights there call for a good sleeping bag
+- Short but steep climb to Thorong Phedi
+- Thorong Phedi, the base of the pass
+- Afternoon rest and rehydration
+- Prepare your headlamp, layers and poles
+- Watch the cliffs for blue sheep
+- Look for the large bearded vulture soaring overhead
+- Go to bed early; next day starts before dawn
+- Some trekkers climb on to High Camp (4,925 m) to shorten the pass day
+- Colder nights there call for a good sleeping bag
 
 ### Day 10: Cross Thorong La Pass (5,416 m) to Muktinath (about 3,800 m), 7 to 9 hours
 
-- Most groups leave between 3:00 and 4:00 a.m. in freezing cold, wearing down jackets, gloves and hats
-- Reaching the pass takes about four to five hours at a slow pace, with roughly 47 percent of sea-level oxygen
-- At the top, prayer flags flutter above a stone cairn and the dry landscape of Mustang stretches out, with Dhaulagiri behind it
-- Afternoon clouds and wind arrive early, so you do not linger long
-- Descent of about 1,600 m is steep and hard on the knees, so poles help
-- In Muktinath visit the temple complex with its 108 water spouts and eternal flame, sacred to Hindus and Buddhists
+- Most groups leave between 3:00 and 4:00 a.m.
+- Freezing cold, wearing down jackets, gloves and hats
+- Reaching the pass takes about four to five hours at a slow pace
+- Roughly 47 percent of sea-level oxygen
+- At the top, prayer flags flutter above a stone cairn
+- Dry landscape of Mustang stretches out, with Dhaulagiri behind
+- Afternoon clouds and wind arrive early
+- Do not linger long
+- Descent of about 1,600 m is steep and hard on the knees
+- Poles help
+- In Muktinath, visit the temple complex with its 108 water spouts and eternal flame
+- Sacred place for both Hindus and Buddhists
 
 ### Day 11: Drive Muktinath to Tatopani (1,190 m)
 
-- Descend about 1,480 m through the Kali Gandaki Gorge, between Dhaulagiri (8,167 m) and Annapurna I (8,091 m)
+- Descend about 1,480 m through the Kali Gandaki Gorge
+- Between Dhaulagiri (8,167 m) and Annapurna I (8,091 m)
 - Road passes Marpha, Tukuche, Larjung and Ghasa
-- Tukuche, an old trading town with stone houses and narrow lanes, shows centuries of Himalayan commerce
+- Tukuche, an old trading town with stone houses and narrow lanes
+- Shows centuries of Himalayan commerce
 - Strong winds blow through the gorge in the afternoon
-- At Tatopani, whose name means hot water, soak in the natural springs and recover after the pass
+- Pines give way to subtropical vegetation as you drop
+- At Tatopani, whose name means hot water, soak in the natural springs
+- Recover after the pass
 
 ### Day 12: Tatopani to Ghorepani (2,874 m), 6 to 7 hours
 
 - Final big climb of about 1,684 m starts beside the hot springs
-- Trail goes through the Gurung village of Shikha (1,935 m), terraced fields and oak, bamboo and rhododendron forest
+- Through the Gurung village of Shikha (1,935 m)
+- Terraced fields and oak, bamboo and rhododendron forest
 - In March and April the hillside is red, pink and white with blooms
-- By late afternoon you reach the lively village of Ghorepani, with views of Dhaulagiri and Annapurna South (7,219 m)
+- By late afternoon reach the lively village of Ghorepani
+- Views of Dhaulagiri and Annapurna South (7,219 m)
 
 ### Day 13: Poon Hill sunrise (3,210 m), trek to Nayapul, travel to Kathmandu
 
-- Start around 4:30 a.m. for the one-hour climb to Poon Hill
+- Start around 4:30 a.m.
+- One-hour climb to Poon Hill
 - At sunrise Dhaulagiri, Annapurna I, Annapurna South, Nilgiri, Hiunchuli and Machhapuchhre glow gold and orange
-- After breakfast in Ghorepani walk down through Ulleri and its famous stone staircase, Tikhedhunga and Birethanti, where permits are checked, to Nayapul
-- A vehicle takes you on to Pokhara and then to Kathmandu
-- Guide confirms whether you fly the same evening or the next morning, since the package includes a Pokhara hotel night and the Pokhara to Kathmandu flight
+- After breakfast in Ghorepani walk down
+- Through Ulleri and its famous stone staircase
+- Then Tikhedhunga and Birethanti, where permits are checked
+- To Nayapul
+- Vehicle takes you on to Pokhara and then to Kathmandu
+- Package includes a Pokhara hotel night
+- Package includes the Pokhara to Kathmandu flight
+- Guide confirms whether you fly the same evening or the next morning
 
 ### Day 14: Departure from Kathmandu
 
 - After breakfast you are driven to the international airport
-- Arrive normally three hours before your flight, ready for the journey home
-- Carry the memories of Thorong La, Manang and Poon Hill with you
+- Normally three hours before your flight
+- Memories of Thorong La, Manang and Poon Hill stay with you
 
 ## What is included
 

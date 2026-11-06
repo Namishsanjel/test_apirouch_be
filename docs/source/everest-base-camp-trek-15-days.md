@@ -41,119 +41,180 @@ The trail runs roughly 130 km (80 miles) return from Lukla. You cross the Dudh K
 
 ### Day 1: Arrival in Kathmandu (1,350 m)
 
-- Representative meets you at Tribhuvan International Airport and drives you to your Thamel hotel, about 20 to 30 minutes away
-- Rest or stroll through Thamel's gear shops, cafes and souvenir stalls
-- Afternoon trek briefing by your guide covering route, permits, weather and safety
-- Go through your gear list and buy or rent anything missing
-- Dinner in town, with no walking today
+- Representative meets you at Tribhuvan International Airport
+- Drive to your hotel in Thamel, about 20 to 30 minutes away
+- After freshening up, rest
+- Or stroll through Thamel's gear shops, cafes and souvenir stalls
+- Afternoon trek briefing by your guide
+- Briefing covers route, permits, weather and safety
+- Go through your gear list
+- Buy or rent anything missing
+- Dinner in town
+- No walking today
 
 ### Day 2: Kathmandu Valley sightseeing and trek preparation
 
-- After breakfast spend four to five hours visiting the valley's UNESCO sites with a local guide
-- Visit Pashupatinath, the holiest Hindu temple in Nepal
-- Continue to Boudhanath Stupa, one of the largest Buddhist stupas in the world
-- Then either Kathmandu Durbar Square or Swayambhunath, depending on your preference
-- Lunch at a local restaurant, with the afternoon for final checks of permits, flight tickets and equipment
+- After breakfast visit the valley's UNESCO sites with a local guide
+- Four to five hours of sightseeing
+- Pashupatinath, the holiest Hindu temple in Nepal, comes first
+- Then Boudhanath Stupa, one of the largest Buddhist stupas in the world
+- Then either Kathmandu Durbar Square or Swayambhunath
+- Choice depends on your preference
+- Lunch at a local restaurant
+- Afternoon for final checks of permits, flight tickets and equipment
+- Easy pace for a gentle start
 
 ### Day 3: Fly to Lukla (2,860 m) and trek to Phakding (2,640 m), 4 to 5 hours
 
-- Early transfer to the domestic airport for the 30 to 35 minute mountain flight to Lukla
-- After a first lunch and meeting the porters, head north through Chheplung, Thado Koshi and Ghat
-- Path follows the Dudh Koshi River, crossing suspension bridges past mani stones and prayer wheels
-- Stop for lunch in Ghat, then continue through forest and terraced fields to Phakding
-- Mostly downhill and flat day to set an easy rhythm
+- Early transfer to the domestic airport
+- 30 to 35 minute mountain flight to Lukla
+- Himalayan range fills the window
+- First lunch and a meeting with your porters
+- Head north through Chheplung, Thado Koshi and Ghat
+- Path follows the Dudh Koshi River
+- Cross suspension bridges
+- Pass mani stones and prayer wheels
+- Stop for lunch in Ghat
+- Continue through forest and terraced fields to Phakding
+- Mostly downhill and flat day
+- Sets an easy rhythm
 
 ### Day 4: Phakding to Namche Bazaar (3,440 m), 5 to 6 hours
 
-- Trail runs through pine forest and the villages of Toktok, Benkar, Chumoa, Monjo and Jorsalle
-- At Monjo your guide shows the Sagarmatha National Park permit as you enter the park
-- After lunch at Jorsalle, climb steeply for two to three hours through dense forest to Namche Bazaar
-- On a clear day you may catch your first glimpse of Everest
-- Arrive, sip Sherpa tea and watch the light change on the peaks
+- Trail runs through pine forest
+- Pass the villages of Toktok, Benkar, Chumoa, Monjo and Jorsalle
+- At Monjo your guide shows the Sagarmatha National Park permit
+- Enter the park
+- Lunch at Jorsalle
+- Hardest section of the day: a steep two to three hour climb through dense forest
+- On a clear day, first glimpse of Everest along the way
+- Arrive at Namche Bazaar
+- Sip Sherpa tea and watch the light change on the peaks
 
 ### Day 5: Acclimatization day in Namche Bazaar, hike to Everest View Hotel (3 to 4 hours)
 
-- After breakfast climb through rhododendron and alpine trail for about two hours to the Everest View Hotel
+- Rest day, but not a day on the sofa
+- After breakfast climb through rhododendron and alpine trail
+- About two hours to the Everest View Hotel
 - See Everest, Lhotse, Nuptse, Ama Dablam and Thamserku in one frame
-- Many groups continue to Khumjung village to see its monastery and the school founded by Sir Edmund Hillary
-- Return to Namche for lunch, then visit the Sherpa museum, bakeries and gear shops
+- Many groups continue to Khumjung village
+- See Khumjung's monastery and the school founded by Sir Edmund Hillary
+- Return to Namche for lunch
+- Afternoon at the Sherpa museum, bakeries and gear shops
 - Climbing high and sleeping low is the core of safe acclimatization
 
 ### Day 6: Namche Bazaar to Tengboche (3,870 m), 5 to 6 hours
 
-- Morning walk contours gently along the hillside with constant mountain views
+- Morning walk is a gentle contour along the hillside
+- Constant mountain views
 - Pass Kyangjuma, known for its tea stop
-- Descend steeply to Phunki Tenga beside the river for lunch
-- Cross the bridge and climb about two hours through forest to Tengboche
-- Tengboche monastery is the largest in the region and the spiritual center of the Khumbu
+- Descend steeply to Phunki Tenga beside the river
+- Lunch at Phunki Tenga
+- Cross the bridge
+- Climb for about two hours through forest to Tengboche
+- Tengboche monastery is the largest in the region
+- Spiritual center of the Khumbu
+- If you arrive in time, sit in the prayer hall as the monks chant
+- Sunset on the peaks from your teahouse
 
 ### Day 7: Tengboche to Dingboche (4,460 m), 5 to 6 hours
 
-- Forested descent leads to Debuche, then cross the Imja Khola on a suspension bridge
-- Climb to the Sherpa villages of Pangboche and Shomare, with views of Ama Dablam, Everest, Lhotse and Island Peak
-- Lunch at Shomare, then the trail leaves the trees and crosses open yak pastures
-- Pass Orsho (4,190 m) into Dingboche, marked by stone-walled fields and a broad, bare valley
+- Forested descent to Debuche
+- Cross the Imja Khola on a suspension bridge
+- Climb to the Sherpa villages of Pangboche and Shomare
+- Views of Ama Dablam, Everest, Lhotse and Island Peak
+- Lunch at Shomare
+- Trail leaves the trees and crosses open yak pastures
+- Pass Orsho (4,190 m) into Dingboche
+- Stone-walled fields and a broad, bare valley
+- Arrival in the high Himalaya
 
 ### Day 8: Acclimatization day in Dingboche, hike to Nangkartshang Peak (5,083 m)
 
 - Second rest day prepares you for the 5,000 m days ahead
-- After an early breakfast climb the steep ridge behind Dingboche for two to three hours to Nangkartshang
+- After an early breakfast climb the steep ridge behind Dingboche
+- Two to three hours to Nangkartshang
 - From the top see Makalu, Ama Dablam, Lhotse, Island Peak and the Imja Valley
-- Descend slowly in one and a half to two hours, have lunch and rest for the afternoon
+- Descend slowly in one and a half to two hours
+- Lunch at the lodge
+- Rest for the afternoon
 - Hydration and an early night help the most
 
 ### Day 9: Dingboche to Lobuche (4,900 m), 5 to 6 hours
 
-- Walk northwest toward Dughla (Thukla) across alpine terrain with views of Taboche, Cholatse and Ama Dablam
-- Lunch comes after about two and a half to three hours
-- A steep climb leads to the Thukla pass, where stone memorials honor climbers and Sherpas lost on Everest
-- Views of Nuptse and Pumori are superb from the pass, then follow the glacier moraine to Lobuche
-- The day is almost all uphill, so a slow, steady pace matters
+- Walk northwest toward Dughla (Thukla) across alpine terrain
+- Views of Taboche, Cholatse and Ama Dablam
+- Lunch after about two and a half to three hours
+- Steep climb to the Thukla pass
+- Stone memorials honor climbers and Sherpas lost on Everest
+- Superb views of Nuptse and Pumori
+- Follow the glacier moraine to Lobuche
+- Almost all uphill today
+- A slow, steady pace matters
 
 ### Day 10: Lobuche to Gorak Shep (5,180 m) and Everest Base Camp (5,364 m), 7 to 8 hours
 
-- Climb along the rocky side moraine of the Khumbu Glacier, past the Italian Pyramid research station, to Gorak Shep in two to three hours
-- After a meal and a short rest, leave your large bags and walk over loose rock to Everest Base Camp, about two to three hours each way
-- In spring you will find the colorful tents of climbing expeditions here
+- Climb along the rocky side moraine of the Khumbu Glacier
+- Pass the Italian Pyramid research station
+- Reach Gorak Shep in two to three hours
+- After a meal and a short rest, leave your large bags at the teahouse
+- Walk over loose rock and glacial moraine to Everest Base Camp
+- About two to three hours each way
+- In spring, colorful tents of climbing expeditions
 - Return to Gorak Shep for the night
-- It is the longest and toughest day of the trek
+- Longest and toughest day of the trek
 
 ### Day 11: Kala Patthar sunrise (5,550 m) and trek down to Pangboche (3,900 m), 7 to 9 hours
 
-- Leave Gorak Shep early with a headlamp and a hot drink to climb Kala Patthar
-- Summit gives the best close-up view of Everest, with Nuptse and Lhotse, as first light hits the peaks
-- Return to Gorak Shep for breakfast and start the long descent
-- Lunch at Thukla or Pheriche, then follow alpine meadows down through Shomare to Pangboche
-- The thicker air makes the downhill feel easy
+- Leave Gorak Shep early with a headlamp and a hot drink
+- Climb Kala Patthar
+- Summit gives the best close-up view of Everest
+- Nuptse and Lhotse alongside
+- First light hits the peaks
+- After photos, return to Gorak Shep for breakfast
+- Start the long descent
+- Lunch at Thukla or Pheriche
+- Follow alpine meadows down through Shomare to Pangboche
+- Thicker air makes the downhill feel easy
 
 ### Day 12: Pangboche to Namche Bazaar (3,440 m), 5 to 6 hours
 
-- Trail returns to Debuche and crosses the Imja Khola
+- Trail returns to Debuche
+- Cross the Imja Khola
 - Climb to Tengboche for a second look at the monastery
-- Drop steeply through forest to Phunki Tenga for lunch, then cross the Dudh Koshi
-- Follow a gentle trail past Kyangjuma and along the hillside back into Namche
-- Expect about two hours of climbing and three to four of descent
+- Drop steeply through forest to Phunki Tenga
+- Lunch at Phunki Tenga
+- Cross the Dudh Koshi
+- Gentle trail past Kyangjuma and along the hillside
+- Back into Namche
+- About two hours of climbing and three to four of descent
 
 ### Day 13: Namche Bazaar to Lukla (2,860 m), 6 to 7 hours
 
-- Cross the high Hillary Suspension Bridge, pass Jorsalle and Monjo and leave the national park
+- Cross the high Hillary Suspension Bridge
+- Pass Jorsalle and Monjo
+- Leave the national park
 - Lunch around Phakding after about three to four hours
-- Afternoon follows the river over several bridges through Ghat and Chheplung
+- Afternoon follows the river over several bridges
+- Through Ghat and Chheplung
 - Final climb of about an hour into Lukla
 - Evening celebration dinner with guides, porters and trekkers
 
 ### Day 14: Fly Lukla to Kathmandu, 30 to 35 minutes
 
-- After breakfast walk to the airstrip for the morning flight back over green hills and snow peaks
-- In peak seasons flights may operate through Ramechhap Airport, so the schedule can change
-- In Kathmandu transfer to your hotel
-- Rest of the day for lunch in Thamel, souvenir shopping or a sight you missed on Day 2
+- After breakfast walk to the airstrip
+- Morning flight back over green hills and snow peaks
+- In peak seasons flights may operate through Ramechhap Airport
+- Schedule can change
+- In Kathmandu, transfer to your hotel
+- Rest of the day for lunch in Thamel
+- Souvenir shopping or any sight you missed on Day 2
 
 ### Day 15: Final departure
 
 - After breakfast a representative drives you to Tribhuvan International Airport
-- Arrive normally about three hours before your flight
-- Use the spare time for one more walk through Kathmandu's streets
+- Normally about three hours before your flight
+- Spare time for one more walk through Kathmandu's streets
 
 ## What is included
 

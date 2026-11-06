@@ -39,30 +39,47 @@ The tour is easy, comfortable and flexible. You stay in 3-star hotels with break
 ### Day 1: Arrival in Kathmandu
 
 - Representative greets you at Tribhuvan International Airport
-- Drive to your hotel to settle in
-- Use the rest of the day for resting and exchanging money
+- Drive to your hotel
+- Rest for the day
+- Exchange money
 - Take an easy walk around Thamel
 
 ### Day 2: Kathmandu and Patan sightseeing
 
-- After breakfast your guide takes you to Kathmandu Durbar Square with its old royal palace
-- Continue to Swayambhunath Stupa on its hilltop, Boudhanath Stupa and Patan Durbar Square
-- Learn the stories behind the temples, the Living Goddess and the mix of Hindu and Buddhist traditions
+- After breakfast your guide takes you to Kathmandu Durbar Square
+- See the old royal palace
+- Continue to Swayambhunath Stupa on its hilltop
+- Then Boudhanath Stupa
+- Then Patan Durbar Square
+- Learn the stories behind the temples
+- Learn about the Living Goddess
+- Learn about the mix of Hindu and Buddhist traditions
 - If you still have energy, add a drive toward Nagarkot for the sunset view
 - Return to your Kathmandu hotel for the night
 
 ### Day 3: Kathmandu to Pokhara and Phewa Lake
 
-- Travel to Pokhara by private vehicle, a drive of around six to seven hours, or fly in about 25 to 30 minutes
-- Flying is the better choice in the monsoon months from May to August, when the highway can be in poor shape
-- Afternoon arrival and check-in
-- Evening stroll along Lakeside and Phewa Lake, with boats and mountain views
+- Travel to Pokhara by private vehicle
+- Drive of around six to seven hours
+- Or fly in about 25 to 30 minutes
+- Flying is the better choice in the monsoon months from May to August
+- In monsoon the highway can be in poor shape
+- Afternoon arrival in Pokhara
+- Check in
+- Evening stroll along Lakeside and Phewa Lake
+- Boats drift in front of the mountain skyline
+- Restaurants offer fresh local food
 
 ### Day 4: Sarangkot sunrise and Pokhara sightseeing
 
-- Very early drive to Sarangkot to see first light touch the Annapurna range, with Machhapuchhre in front
-- Return for breakfast, then visit the International Mountain Museum, which tells the story of Himalayan mountaineering
-- Continue to Devi's Fall, where a stream disappears underground, and Gupteshwor Cave and city temples
+- Very early drive to Sarangkot
+- See the first light touch the peaks of the Annapurna range
+- The sharp tip of Machhapuchhre in front
+- Return for breakfast
+- Continue to the International Mountain Museum
+- Museum tells the story of Himalayan mountaineering
+- Next come Devi's Fall, where a stream disappears underground
+- Then Gupteshwor Cave and some of the city's temples
 - Spend the evening beside the lake
 
 ### Day 5: Fly back to Kathmandu and farewell dinner
@@ -70,11 +87,13 @@ The tour is easy, comfortable and flexible. You stay in 3-star hotels with break
 - After breakfast take a short flight back to Kathmandu
 - Check in at your hotel
 - Evening farewell dinner at a Nepali restaurant
-- Enjoy traditional food and a cultural dance performance
+- Traditional food
+- Cultural dance performance
 
 ### Day 6: Free time and departure
 
-- Use the morning for last-minute shopping or a visit to a favorite place
+- Use the morning for last-minute shopping
+- Or a visit to a favorite place
 - Transfer to the airport for your onward flight
 
 ## What is included

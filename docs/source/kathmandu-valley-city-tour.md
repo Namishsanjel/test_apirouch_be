@@ -38,41 +38,73 @@ The tour suits first-time visitors, families, couples, older travelers and anyon
 
 ### Stop 1: Kathmandu Durbar Square and Hanuman Dhoka
 
-- Tour begins in the old royal square, where Nepali kings were crowned in the palace courtyard
+- Tour begins in the old royal square
+- Coronations of Nepal's kings took place in the palace courtyard
 - Palace takes its name from Hanuman, the monkey god
-- Look for King Pratap Malla's statue, the Jagannath Temple, the 16th-century Taleju Temple (1549), the stone Kal Bhairav, the Great Bell and the Great Drum
-- Kasthamandap, said to be built from a single tree, gave Kathmandu its name
-- Maru Ganesh is the most visited shrine, and locals queue on Tuesdays
-- Kumari Ghar's carved wooden balconies shelter the Living Goddess, worshipped by Hindus and Buddhists
+- Statue of King Pratap Malla on a stone pillar
+- The medieval Jagannath Temple
+- The 16th-century Taleju Temple (1549)
+- The huge stone Kal Bhairav
+- The Great Bell and the Great Drum
+- Kasthamandap, said to be built from a single tree
+- Kasthamandap gave Kathmandu its name
+- Maru Ganesh, the most visited shrine
+- Locals queue on Tuesdays
+- Kumari Ghar's carved wooden balconies
+- Shelters the Living Goddess, a young girl from a Buddhist family
+- Worshipped by both Hindus and Buddhists
 
 ### Stop 2: Swayambhunath Stupa (Monkey Temple)
 
-- Climb stone steps to a stupa about 2,500 years old, on a hill roughly 77 m above the valley floor
-- Painted eyes on the golden spire watch in four directions and symbolize the Buddha's all-seeing wisdom
-- Complex includes monasteries, the Harati Temple both Hindus and Buddhists visit, and Anandakuti Vihar a short walk away
-- Watch the monkeys carefully and keep food hidden
+- Climb the stone steps to the stupa
+- Stupa about 2,500 years old
+- Hill roughly 77 m above the valley floor
+- Painted eyes on the golden spire
+- Eyes watch in four directions
+- Symbolize the all-seeing wisdom of the Buddha
+- Complex includes monasteries
+- The Harati Temple, visited by Hindus and Buddhists
+- Anandakuti Vihar, a short walk away
+- Watch the monkeys carefully
+- Keep food hidden
 
 ### Stop 3: Boudhanath Stupa
 
-- About 6 km east of the city center, among the largest Buddhist stupas in the world
-- Key focus of Tibetan Buddhism, with pilgrims walking clockwise and spinning prayer wheels
-- Monks chant in the surrounding monasteries, and thousands of Tibetan Buddhists gather here in winter
-- Rooftop cafes give a good view of the stupa and a place to pause for lunch
+- About 6 km east of the city center
+- Among the largest Buddhist stupas in the world
+- A focus of Tibetan Buddhism
+- Pilgrims walk clockwise around the dome
+- Spinning prayer wheels
+- Monks chant in the surrounding monasteries
+- Thousands of Tibetan Buddhists gather here in winter
+- Rooftop cafes give a good view of the stupa
+- Place to pause for lunch
 
 ### Stop 4: Pashupatinath Temple
 
-- Five kilometers east of the center, on the banks of the Bagmati River
-- Nepal's most sacred Hindu temple, dedicated to Lord Shiva, with two golden roofs and four silver doors
+- Five kilometers east of the center
+- On the banks of the Bagmati River
+- Nepal's most sacred Hindu temple
+- Dedicated to Lord Shiva
+- Two golden roofs and four silver doors
+- Tens of thousands of pilgrims come each year
 - Only Hindus may enter the main sanctum
-- Observe the complex and riverside cremation ghats from the opposite bank, respectfully, with your guide's explanation
+- Observe the complex from the opposite bank
+- Riverside cremation ghats
+- Respectful viewing with your guide's explanation
 
 ### Stop 5: Patan Durbar Square
 
-- Tour ends in Patan, once the capital of its own kingdom
-- The most photographed of Kathmandu's three durbar squares, with Newari brickwork and carved wood
-- Highlights include the Krishna Temple with 21 golden pinnacles
-- See the Rudra Varna Mahavihar Buddhist monastery and the central Mul Chowk courtyard
-- Driver returns you to your hotel or the operator's office in Thamel
+- Tour ends in Patan
+- Once the capital of its own kingdom
+- Home to the former royal family
+- Most photographed of Kathmandu's three durbar squares
+- Newari brickwork and carved wood at its best
+- Krishna Temple with 21 golden pinnacles
+- Rudra Varna Mahavihar Buddhist monastery and its treasures
+- Central Mul Chowk courtyard
+- Driver returns you to your hotel
+- Or to the operator's office in Thamel
 
 ## What is included
 
