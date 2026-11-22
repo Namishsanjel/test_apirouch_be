@@ -34,6 +34,13 @@
         "images"
       ]
     },
+    "brochure": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "files"
+      ]
+    },
     "overview": {
       "type": "text"
     },

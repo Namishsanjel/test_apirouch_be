@@ -7,6 +7,36 @@
 const { createCoreController } = require('@strapi/strapi').factories;
 
 module.exports = createCoreController('api::tour.tour', ({ strapi }) => ({
+  /**
+   * Default populate so a plain GET /api/tours returns `points`, `brochure` and
+   * the rest without the caller having to know the schema shape. A client that
+   * does pass its own `populate` is left untouched — the core controller then
+   * applies it as usual.
+   */
+  async find(ctx) {
+    const query = ctx.query || {};
+
+    if (!query.populate) {
+      ctx.query = {
+        ...query,
+        populate: {
+          coverImage: true,
+          gallery: true,
+          brochure: true,
+          destination: true,
+          itinerary: true,
+          inclusions: true,
+          exclusions: true,
+          highlights: true,
+          extraSections: true,
+          faqs: true,
+        },
+      };
+    }
+
+    return super.find(ctx);
+  },
+
   async findBySlug(ctx) {
     const { slug } = ctx.params;
 
@@ -19,6 +49,7 @@ module.exports = createCoreController('api::tour.tour', ({ strapi }) => ({
       populate: {
         coverImage: true,
         gallery: true,
+        brochure: true,
         destination: true,
         itinerary: true,
         inclusions: true,
