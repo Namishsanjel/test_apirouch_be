@@ -12,6 +12,7 @@
     "seed": "node scripts/seed.js",
     "import-packages": "node scripts/import-packages.js",
     "import-itinerary-images": "node scripts/import-itinerary-images.js",
+    "import-tours": "node scripts/import-tours.js",
     "check:nav": "node scripts/check-nav.js",
     "start": "strapi start",
     "strapi": "strapi",

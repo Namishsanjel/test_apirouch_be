@@ -1,0 +1,627 @@
+{
+  "_comment": "Tour content extracted from the PDFs in docs/Tours. Only information present in each PDF is included. Price, group size, SEO fields and images are intentionally empty. `destinationName` is a lookup hint; when no matching destination exists the importer reports it and leaves the relation null.",
+  "tours": [
+    {
+      "slug": "barcelona-tour-9-days",
+      "title": "Barcelona 9 Days: Gaudí, Old Town & the Mediterranean",
+      "destinationName": "Barcelona",
+      "difficulty": "easy",
+      "category": "tour",
+      "durationDays": 9,
+      "startLocation": "Barcelona",
+      "endLocation": "Barcelona",
+      "overview": "Barcelona is a lively Mediterranean city where historic streets, modern architecture, golden beaches and world-famous food come together. From the extraordinary designs of Antoni Gaudí to the atmosphere of the Gothic Quarter and the waterfront, this journey offers a rich introduction to the Catalan capital and its surroundings.",
+      "snapshot": [
+        { "label": "Duration", "value": "8 nights / 9 days" },
+        { "label": "Start and end", "value": "Barcelona" },
+        { "label": "Accommodation", "value": "8 nights in a selected 3-star category hotel (or similar) in Barcelona, with daily breakfast" },
+        { "label": "Meals", "value": "Daily breakfast at the hotel" }
+      ],
+      "highlights": [
+        "Sagrada Família",
+        "Park Güell",
+        "Casa Batlló",
+        "La Rambla",
+        "Gothic Quarter",
+        "Barceloneta Beach",
+        "Montjuïc",
+        "Optional Montserrat day trip"
+      ],
+      "itinerary": [
+        {
+          "day": "Day 1",
+          "title": "Arrival in Barcelona",
+          "body": "Arrive at Barcelona–El Prat Airport, meet the local representative and transfer to the hotel. Check in and enjoy the rest of the day at leisure. Overnight in Barcelona."
+        },
+        {
+          "day": "Day 2",
+          "title": "Sagrada Família & Gaudí avenues",
+          "body": "Visit the Sagrada Família (timed entry recommended), then explore Passeig de Gràcia and admire Casa Batlló and Casa Milà from outside or with optional entry. Overnight in Barcelona."
+        },
+        {
+          "day": "Day 3",
+          "title": "Park Güell & Gràcia",
+          "body": "Discover Park Güell and its colourful mosaics and city viewpoints. Continue to the Gràcia neighbourhood for its relaxed squares, cafés and local atmosphere. Overnight in Barcelona."
+        },
+        {
+          "day": "Day 4",
+          "title": "Gothic Quarter & La Rambla",
+          "body": "Walk through the Gothic Quarter, visit the Barcelona Cathedral area, stroll along La Rambla and explore La Boqueria Market. Enjoy free time in the city centre. Overnight in Barcelona."
+        },
+        {
+          "day": "Day 5",
+          "title": "Barceloneta & waterfront",
+          "body": "Spend time at Barceloneta Beach and explore Port Vell and the waterfront promenade. Optional harbour activities or a relaxed seaside lunch can be arranged. Overnight in Barcelona."
+        },
+        {
+          "day": "Day 6",
+          "title": "Montjuïc & city panoramas",
+          "body": "Explore Montjuïc's viewpoints, gardens and cultural landmarks. Optional cable car or museum visits can be added subject to operating hours and tickets. Overnight in Barcelona."
+        },
+        {
+          "day": "Day 7",
+          "title": "Optional Montserrat excursion",
+          "body": "Enjoy an optional day trip to Montserrat, a dramatic mountain retreat known for its unusual rock formations and Benedictine monastery. Transport, monastery access and any activities depend on the selected excursion. Overnight in Barcelona."
+        },
+        {
+          "day": "Day 8",
+          "title": "Leisure, shopping & local flavours",
+          "body": "Enjoy a flexible day for shopping, museums, neighbourhood cafés or revisiting favourite places. Consider sampling Catalan cuisine and exploring areas at your own pace. Overnight in Barcelona."
+        },
+        {
+          "day": "Day 9",
+          "title": "Departure",
+          "body": "After breakfast, check out and transfer to Barcelona Airport for your return journey."
+        }
+      ],
+      "inclusions": [
+        "8 nights' hotel accommodation",
+        "Daily breakfast at the hotel",
+        "Airport arrival and departure transfers, if stated in the confirmed quotation",
+        "Local sightseeing transport and guide services only as specified in the final itinerary",
+        "Visits and entrance tickets only where expressly listed as included"
+      ],
+      "exclusions": [
+        "International airfare and Spain / Schengen visa fee unless specifically included",
+        "Lunches, dinners, drinks and personal expenses",
+        "Sagrada Família, Park Güell, Casa Batlló, Casa Milà, museums and other entrance tickets unless specified",
+        "Optional Montserrat excursion, cable car, harbour activities and other add-ons unless listed",
+        "City / tourist tax, travel insurance, tips, single-room supplement and services not mentioned"
+      ]
+    },
+    {
+      "slug": "danang-tour-5-days",
+      "title": "Da Nang 5 Days: Ba Na Hills, Golden Bridge & Hoi An",
+      "destinationName": "Da Nang",
+      "difficulty": "easy",
+      "category": "tour",
+      "durationDays": 5,
+      "startLocation": "Da Nang",
+      "endLocation": "Kathmandu",
+      "overview": "Experience Vietnam's coastal charm, cultural heritage and natural wonders. Explore the iconic Golden Bridge at Ba Na Hills, enjoy a traditional basket boat ride and wander through the charming streets of Hoi An Ancient Town.",
+      "snapshot": [
+        { "label": "Duration", "value": "4 nights / 5 days" },
+        { "label": "Start and end", "value": "Da Nang, returning to Kathmandu" },
+        { "label": "Accommodation", "value": "3-star category hotel – Anfada Danang or similar" },
+        { "label": "Meals", "value": "Daily breakfast" },
+        { "label": "Transport", "value": "Airport and sightseeing transfers by air-conditioned vehicle" }
+      ],
+      "highlights": [
+        "Golden Bridge at Ba Na Hills",
+        "Da Nang beaches",
+        "Hoi An Ancient Town"
+      ],
+      "itinerary": [
+        {
+          "day": "Day 1",
+          "title": "Da Nang arrival",
+          "body": "Arrive at Da Nang Airport, meet our guide and transfer to the hotel. Check in and enjoy an overnight stay in Da Nang."
+        },
+        {
+          "day": "Day 2",
+          "title": "Ba Na Hills & Golden Bridge",
+          "body": "After breakfast at the hotel, enjoy a full-day excursion to Ba Na Hills, including a cable car ride, the iconic Golden Bridge, panoramic mountain views, Linh Ung Pagoda, gardens and Fantasy Park. Return to Da Nang for an overnight stay."
+        },
+        {
+          "day": "Day 3",
+          "title": "Da Nang city tour, basket boat ride & Hoi An",
+          "body": "After breakfast, visit Son Tra Peninsula and Lady Buddha, followed by a basket boat ride at Cam Thanh Coconut Village. Continue to Hoi An Ancient Town to explore its historic streets, Japanese Covered Bridge and traditional architecture. Return to Da Nang for an overnight stay."
+        },
+        {
+          "day": "Day 4",
+          "title": "Day at leisure",
+          "body": "Enjoy breakfast at the hotel. Spend the day at leisure exploring Da Nang, relaxing at the beach or shopping on your own. Overnight in Da Nang."
+        },
+        {
+          "day": "Day 5",
+          "title": "Departure",
+          "body": "After breakfast, check out from the hotel and transfer to Da Nang Airport for your return journey to Kathmandu."
+        }
+      ],
+      "inclusions": [
+        "Round-trip airfare",
+        "4 nights' accommodation at a 3-star hotel",
+        "Daily breakfast",
+        "Airport and sightseeing transfers by air-conditioned vehicle",
+        "Local English-speaking guide",
+        "Entrance fees as per the itinerary",
+        "Ba Na Hills cable car",
+        "Basket boat ride",
+        "Two bottles of 500 ml drinking water per person per day",
+        "Vietnam visa fee"
+      ],
+      "exclusions": [
+        "Compulsory Vietnam tour-guide tip of USD 3 per person per day, payable directly to the tour guide",
+        "Meals and drinks not mentioned in the inclusions",
+        "Tips for guides and drivers",
+        "Personal expenses",
+        "Single-room supplement",
+        "Early check-in or late check-out",
+        "Hotel or room upgrades",
+        "Any services not specifically mentioned in the inclusions"
+      ]
+    },
+    {
+      "slug": "japan-tour-6-days",
+      "title": "Japan 6 Days: Osaka, Kyoto, Nara & Tokyo",
+      "destinationName": "Japan",
+      "difficulty": "easy",
+      "category": "tour",
+      "durationDays": 6,
+      "startLocation": "Osaka",
+      "endLocation": "Tokyo",
+      "overview": "A six-day journey through Japan combining Osaka, Kyoto, Nara and Tokyo, including a ride on the Shinkansen bullet train and a day trip to Mt. Fuji and Hakone.",
+      "snapshot": [
+        { "label": "Duration", "value": "5 nights / 6 days" },
+        { "label": "Start and end", "value": "Osaka to Tokyo" },
+        { "label": "Accommodation", "value": "2 nights in Osaka and 3 nights in Tokyo (3-star hotels)" },
+        { "label": "Meals", "value": "Daily breakfast at the hotel" },
+        { "label": "Transport", "value": "Shinkansen bullet train from Osaka to Tokyo (reserved seats) and private airport transfers" }
+      ],
+      "highlights": [],
+      "itinerary": [
+        {
+          "day": "Day 1",
+          "title": "Arrival in Osaka",
+          "body": "Welcome to Japan. Arrive at Kansai International Airport (KIX) and meet and greet by our representative.",
+          "points": [
+            "Arrive at Kansai International Airport (KIX)",
+            "Meet and greet by our representative",
+            "Private transfer to your hotel in Osaka",
+            "Check-in at the hotel",
+            "Free time to relax or explore nearby areas at your own pace",
+            "Overnight stay in Osaka"
+          ]
+        },
+        {
+          "day": "Day 2",
+          "title": "Kyoto & Nara cultural exploration",
+          "body": "A day exploring the cultural highlights of Kyoto and Nara.",
+          "points": [
+            "Breakfast at hotel",
+            "Visit Kinkaku-ji Temple (Golden Pavilion)",
+            "Walk through Arashiyama Bamboo Grove",
+            "Explore Nara Park and see friendly deer",
+            "Visit Todai-ji Temple (outside view)",
+            "Return to Osaka",
+            "Overnight in Osaka"
+          ]
+        },
+        {
+          "day": "Day 3",
+          "title": "Bullet train experience – Osaka to Tokyo",
+          "body": "Travel from Osaka to Tokyo aboard the Shinkansen bullet train.",
+          "points": [
+            "Check out from your Osaka hotel after breakfast",
+            "Enjoy a private transfer to the train station",
+            "Board the Shinkansen (bullet train) with reserved seats to Tokyo",
+            "Experience the thrill of Japan's world-famous high-speed train",
+            "Arrive in Tokyo and transfer to your hotel for check-in",
+            "Overnight stay in Tokyo"
+          ]
+        },
+        {
+          "day": "Day 4",
+          "title": "Tokyo highlights – half-day city tour",
+          "body": "A half-day guided tour of Tokyo's highlights.",
+          "points": [
+            "After breakfast, start a half-day guided tour",
+            "Visit the Imperial Palace (outer grounds)",
+            "Explore Senso-ji Temple in Asakusa",
+            "Enjoy a photo stop at Tokyo Tower",
+            "Return to hotel and overnight stay in Tokyo"
+          ]
+        },
+        {
+          "day": "Day 5",
+          "title": "Mt. Fuji & Hakone wonders (private tour)",
+          "body": "A full-day private tour to Mt. Fuji and Hakone.",
+          "points": [
+            "Full-day private tour after breakfast",
+            "Visit Mt. Fuji 5th Station for scenic views (weather permitting)",
+            "Explore Lake Kawaguchi and Oshino Hakkai village",
+            "Shopping at Gotemba Premium Outlets",
+            "Return to Tokyo for overnight stay"
+          ]
+        },
+        {
+          "day": "Day 6",
+          "title": "Departure from Tokyo",
+          "body": "After breakfast, check out from the hotel. Private transfer to the airport for your return flight. End of tour."
+        }
+      ],
+      "inclusions": [
+        "Round-trip airfare",
+        "Japan Tourist Visa (processing and fee included)",
+        "2 nights accommodation in Osaka & 3 nights in Tokyo (3-star hotels)",
+        "Daily breakfast at the hotel",
+        "Shinkansen Bullet Train ticket from Osaka to Tokyo (reserved seats)",
+        "All sightseeing tours as mentioned (Kyoto, Nara, Tokyo, Mt. Fuji & Hakone)",
+        "All transfers and tours on sharing basis unless mentioned as private",
+        "Private airport transfers in Japan"
+      ],
+      "exclusions": []
+    },
+    {
+      "slug": "london-tour-10-days",
+      "title": "London 10 Days: Royal Heritage, Windsor, Bath & Oxford",
+      "destinationName": "London",
+      "difficulty": "easy",
+      "category": "tour",
+      "durationDays": 10,
+      "startLocation": "London",
+      "endLocation": "London",
+      "overview": "From the famous clock tower of Big Ben and the royal splendour of Buckingham Palace to the historic Tower of London and the lively River Thames, London brings together centuries of history with modern city life. This 10-day holiday also introduces you to beautiful English destinations beyond the capital.",
+      "snapshot": [
+        { "label": "Duration", "value": "9 nights / 10 days" },
+        { "label": "Start and end", "value": "London" },
+        { "label": "Accommodation", "value": "9 nights at a selected 3-star category hotel in London (or similar), with daily breakfast" },
+        { "label": "Meals", "value": "Daily breakfast" }
+      ],
+      "highlights": [
+        "Iconic landmarks",
+        "Royal history",
+        "Scenic river views",
+        "Historic day trips",
+        "Shopping & leisure"
+      ],
+      "itinerary": [
+        {
+          "day": "Day 1",
+          "title": "Arrival in London",
+          "body": "Airport arrival, transfer to the hotel, check-in and time to relax."
+        },
+        {
+          "day": "Day 2",
+          "title": "Westminster & royal London",
+          "body": "Big Ben, Houses of Parliament, Westminster area, Buckingham Palace and St James's Park."
+        },
+        {
+          "day": "Day 3",
+          "title": "Tower of London & Tower Bridge",
+          "body": "Explore the historic fortress area, admire Tower Bridge and enjoy riverside views."
+        },
+        {
+          "day": "Day 4",
+          "title": "South Bank & museums",
+          "body": "London Eye area, British Museum and central London neighbourhoods."
+        },
+        {
+          "day": "Day 5",
+          "title": "Windsor",
+          "body": "Day excursion to Windsor town and Windsor Castle, subject to access and ticket availability."
+        },
+        {
+          "day": "Day 6",
+          "title": "Stonehenge & Bath",
+          "body": "Discover the prehistoric stone circle and the historic city of Bath."
+        },
+        {
+          "day": "Day 7",
+          "title": "Oxford",
+          "body": "Explore Oxford's university city, architecture and historic streets."
+        },
+        {
+          "day": "Day 8",
+          "title": "Greenwich",
+          "body": "Discover Greenwich's maritime heritage, parkland and Prime Meridian area."
+        },
+        {
+          "day": "Day 9",
+          "title": "Leisure & shopping",
+          "body": "Free day for shopping, museums, theatre or independent exploration."
+        },
+        {
+          "day": "Day 10",
+          "title": "Departure",
+          "body": "Breakfast, hotel check-out and transfer to the airport."
+        }
+      ],
+      "inclusions": [
+        "9 nights' hotel accommodation with daily breakfast",
+        "Airport transfers and sightseeing transport as specified in the confirmed programme",
+        "Sightseeing and excursions listed in the final itinerary",
+        "Local guide or assistance where stated in the quotation"
+      ],
+      "exclusions": [
+        "International airfare and UK visa fee unless specifically included",
+        "Attraction entrance tickets unless listed as included",
+        "Lunches, dinners, drinks and personal expenses",
+        "Travel insurance, tips, optional activities and single-room supplement",
+        "Any service not specifically mentioned in the inclusions"
+      ]
+    },
+    {
+      "slug": "switzerland-tour-4-days",
+      "title": "Switzerland 4 Days: Zurich, Lucerne & Interlaken",
+      "destinationName": "Switzerland",
+      "difficulty": "easy",
+      "category": "tour",
+      "durationDays": 4,
+      "startLocation": "Zurich",
+      "endLocation": "Zurich",
+      "overview": "Switzerland is famous for its dramatic Alpine peaks, clear blue lakes, scenic rail journeys and beautifully preserved towns. This short escape introduces you to Zurich's lively city atmosphere, Lucerne's lakeside charm and the spectacular mountain scenery around Interlaken.",
+      "snapshot": [
+        { "label": "Duration", "value": "3 nights / 4 days" },
+        { "label": "Start and end", "value": "Zurich" },
+        { "label": "Accommodation", "value": "3 nights in selected 3-star category hotels (or similar). Suggested split: 1 night Zurich, 1 night Lucerne and 1 night Interlaken" },
+        { "label": "Meals", "value": "Daily breakfast at the hotel" },
+        { "label": "Transport", "value": "Travel between cities may be arranged by Swiss rail or private vehicle" }
+      ],
+      "highlights": [
+        "Zurich city experience",
+        "Lucerne & Chapel Bridge",
+        "Interlaken",
+        "Jungfraujoch – Top of Europe (optional / subject to availability)",
+        "Swiss scenic train journeys"
+      ],
+      "itinerary": [
+        {
+          "day": "Day 1",
+          "title": "Arrival in Zurich",
+          "body": "Arrive at Zurich Airport and transfer to the hotel. After check-in, enjoy a relaxed city orientation, with time to explore Zurich Old Town, Bahnhofstrasse and the Lake Zurich waterfront. Overnight in Zurich."
+        },
+        {
+          "day": "Day 2",
+          "title": "Zurich to Lucerne",
+          "body": "After breakfast, travel to Lucerne by train or private transfer. Explore Chapel Bridge, the Water Tower, Old Town and the lakeside promenade. Optional Lake Lucerne cruise or Mount Pilatus / Mount Titlis excursion can be arranged subject to time and availability. Overnight in Lucerne or nearby."
+        },
+        {
+          "day": "Day 3",
+          "title": "Lucerne to Interlaken",
+          "body": "Travel through the Swiss countryside to Interlaken. Enjoy the town centre and views of the surrounding mountains and lakes. Optional Jungfraujoch excursion or Lauterbrunnen Valley visit may be arranged depending on the selected package, weather and railway operations. Overnight in Interlaken."
+        },
+        {
+          "day": "Day 4",
+          "title": "Departure",
+          "body": "After breakfast, check out and transfer by train or private vehicle to Zurich Airport for your return flight. Departure transfer timing should be planned around the confirmed flight schedule."
+        }
+      ],
+      "inclusions": [
+        "3 nights' accommodation in selected 3-star category hotels",
+        "Daily breakfast at the hotel",
+        "Airport arrival and departure transfers as specified in the final programme",
+        "Intercity transport by train or private vehicle only as stated in the confirmed quotation",
+        "Sightseeing and local assistance only as listed in the final package"
+      ],
+      "exclusions": [
+        "International airfare and Switzerland / Schengen visa fee unless specifically included",
+        "Swiss Travel Pass, train tickets, seat reservations or private transfers unless specified",
+        "Jungfraujoch, Mount Titlis, Mount Pilatus and other optional excursion tickets unless listed as included",
+        "Lunches, dinners, drinks, personal expenses and travel insurance",
+        "Tips, single-room supplement and services not specifically mentioned"
+      ]
+    },
+    {
+      "slug": "sydney-tour-6-days",
+      "title": "Sydney 6 Days: Harbour, Bondi, Taronga & the Blue Mountains",
+      "destinationName": "Sydney",
+      "difficulty": "easy",
+      "category": "tour",
+      "durationDays": 6,
+      "startLocation": "Sydney",
+      "endLocation": "Sydney",
+      "overview": "Sydney is Australia's iconic harbour city, celebrated for its striking waterfront, famous architecture, beautiful beaches and relaxed outdoor lifestyle. This six-day holiday combines the city's signature landmarks with coastal scenery, Australian wildlife and a day exploring the spectacular Blue Mountains.",
+      "snapshot": [
+        { "label": "Duration", "value": "5 nights / 6 days" },
+        { "label": "Start and end", "value": "Sydney" },
+        { "label": "Accommodation", "value": "5 nights in a selected 3-star category hotel (or similar) in Sydney, with daily breakfast" },
+        { "label": "Meals", "value": "Daily breakfast" }
+      ],
+      "highlights": [
+        "Sydney Opera House",
+        "Harbour Bridge",
+        "Bondi Beach",
+        "Taronga Zoo",
+        "Blue Mountains & Three Sisters",
+        "Harbour and coastal views"
+      ],
+      "itinerary": [
+        {
+          "day": "Day 1",
+          "title": "Arrival in Sydney",
+          "body": "Arrive at Sydney Airport, meet the local representative and transfer to the hotel. Check in and enjoy the rest of the day at leisure. Overnight in Sydney."
+        },
+        {
+          "day": "Day 2",
+          "title": "Sydney city & harbour tour",
+          "body": "Explore the Sydney Opera House precinct, Harbour Bridge viewpoints, Circular Quay and The Rocks. Continue to Darling Harbour and enjoy time by the waterfront. Optional Opera House guided tour can be arranged subject to availability. Overnight in Sydney."
+        },
+        {
+          "day": "Day 3",
+          "title": "Bondi Beach & coastal experience",
+          "body": "Visit Bondi Beach and enjoy time for photographs, relaxation and a section of the scenic coastal walk. Explore nearby coastal viewpoints and cafés before returning to the city. Overnight in Sydney."
+        },
+        {
+          "day": "Day 4",
+          "title": "Taronga Zoo & harbour views",
+          "body": "Visit Taronga Zoo to discover Australian and international wildlife. Enjoy the harbour setting and, if included in the confirmed plan, travel by ferry for scenic city views. Overnight in Sydney."
+        },
+        {
+          "day": "Day 5",
+          "title": "Blue Mountains excursion",
+          "body": "Spend the day exploring the Blue Mountains, including Echo Point and the Three Sisters. Optional Scenic World rides or a visit to a mountain village may be included depending on the selected excursion. Return to Sydney. Overnight in Sydney."
+        },
+        {
+          "day": "Day 6",
+          "title": "Departure",
+          "body": "After breakfast, check out and transfer to Sydney Airport for your return journey."
+        }
+      ],
+      "inclusions": [
+        "5 nights' hotel accommodation",
+        "Daily breakfast",
+        "Airport transfers and sightseeing transport as specified in the confirmed programme",
+        "Sydney city sightseeing, Taronga Zoo and Blue Mountains excursion only where specifically included in the final quotation"
+      ],
+      "exclusions": [
+        "International airfare and Australian visa fee unless specifically included",
+        "Lunches, dinners, drinks and personal expenses",
+        "Attraction entrance tickets, ferry fares and optional activities unless listed as included",
+        "Travel insurance, tips, single-room supplement and services not specifically mentioned"
+      ]
+    },
+    {
+      "slug": "thailand-tour-5-days",
+      "title": "Thailand 5 Days: Bangkok, Pattaya & Coral Island",
+      "destinationName": "Thailand",
+      "difficulty": "easy",
+      "category": "tour",
+      "durationDays": 5,
+      "startLocation": "Bangkok",
+      "endLocation": "Bangkok",
+      "overview": "Explore the vibrant city of Bangkok and the lively beach resort of Pattaya. Discover ornate temples, exciting wildlife attractions, turquoise island waters and the famous Coral Island.",
+      "snapshot": [
+        { "label": "Duration", "value": "4 nights / 5 days" },
+        { "label": "Start and end", "value": "Bangkok and Pattaya" },
+        { "label": "Accommodation", "value": "3-star category hotels in Bangkok and Pattaya (or similar)" },
+        { "label": "Meals", "value": "Daily breakfast at the hotels" },
+        { "label": "Transport", "value": "Airport and intercity transfers by air-conditioned vehicle" }
+      ],
+      "highlights": [
+        "Grand Palace / Bangkok",
+        "Coral Island / Pattaya",
+        "Safari World / Bangkok"
+      ],
+      "itinerary": [
+        {
+          "day": "Day 1",
+          "title": "Bangkok arrival",
+          "body": "Arrive at Bangkok Airport, meet the local representative and transfer to the hotel. Check in and enjoy the rest of the day at leisure. Overnight in Bangkok."
+        },
+        {
+          "day": "Day 2",
+          "title": "Bangkok city tour",
+          "body": "After breakfast, explore Bangkok's cultural highlights, including the Grand Palace area and Wat Pho (Reclining Buddha), subject to opening hours and local arrangements. Enjoy free time for shopping or exploring the city. Overnight in Bangkok."
+        },
+        {
+          "day": "Day 3",
+          "title": "Safari World & transfer to Pattaya",
+          "body": "After breakfast, visit Safari World for an exciting day among its wildlife attractions and scheduled shows. Later, transfer to Pattaya and check in at the hotel. Overnight in Pattaya."
+        },
+        {
+          "day": "Day 4",
+          "title": "Coral Island & Pattaya",
+          "body": "After breakfast, enjoy a speedboat excursion to Coral Island (Koh Larn), with time to relax on the beach or enjoy optional water activities at your own expense. Return to Pattaya. Overnight in Pattaya."
+        },
+        {
+          "day": "Day 5",
+          "title": "Departure",
+          "body": "After breakfast, check out and transfer from Pattaya to Bangkok Airport for your return journey."
+        }
+      ],
+      "inclusions": [
+        "Round-trip airfare (if included in the confirmed quotation)",
+        "4 nights' accommodation at selected 3-star category hotels",
+        "Daily breakfast at the hotels",
+        "Airport and intercity transfers by air-conditioned vehicle",
+        "Local sightseeing transfers as per the itinerary",
+        "Coral Island excursion by speedboat",
+        "Safari World admission (as per confirmed ticket category)",
+        "Local English-speaking assistance/guide where specified in the final program"
+      ],
+      "exclusions": [
+        "Thailand visa fee, if applicable, and any visa-related service charges",
+        "Meals and drinks not mentioned in the inclusions",
+        "Optional water sports and activities at Coral Island",
+        "Tips for guides, drivers and hotel staff",
+        "Personal expenses, laundry, telephone calls and travel insurance",
+        "Single-room supplement, early check-in or late check-out",
+        "Hotel or room upgrades",
+        "Any service not specifically mentioned in the inclusions"
+      ]
+    },
+    {
+      "slug": "turkey-tour-6-days",
+      "title": "Turkey 6 Days: Istanbul & Cappadocia",
+      "destinationName": "Turkey",
+      "difficulty": "easy",
+      "category": "tour",
+      "durationDays": 6,
+      "startLocation": "Istanbul",
+      "endLocation": "Istanbul",
+      "overview": "Discover the fascinating blend of history, culture and natural beauty in Turkey. Explore Istanbul's magnificent mosques and lively bazaars, cruise along the Bosphorus and experience the extraordinary landscapes of Cappadocia, famous for its fairy chimneys and hot-air balloons.",
+      "snapshot": [
+        { "label": "Duration", "value": "5 nights / 6 days" },
+        { "label": "Start and end", "value": "Istanbul" },
+        { "label": "Accommodation", "value": "5 nights in selected 3-star category hotels (or similar): suggested split of 3 nights in Istanbul and 2 nights in Cappadocia" },
+        { "label": "Meals", "value": "Daily breakfast" },
+        { "label": "Transport", "value": "Domestic flights Istanbul–Cappadocia–Istanbul only if stated in the confirmed quotation" }
+      ],
+      "highlights": [
+        "Istanbul city tour",
+        "Bosphorus cruise",
+        "Cappadocia valleys",
+        "Underground city",
+        "Turkish culture & cuisine"
+      ],
+      "itinerary": [
+        {
+          "day": "Day 1",
+          "title": "Arrival in Istanbul",
+          "body": "Arrive at Istanbul Airport, meet the local representative and transfer to the hotel. Check in and enjoy the evening at leisure. Overnight in Istanbul."
+        },
+        {
+          "day": "Day 2",
+          "title": "Istanbul city tour",
+          "body": "Discover the city's historic highlights, including Hagia Sophia, the Blue Mosque area, Topkapi Palace and the Grand Bazaar. Sight visits depend on opening hours and the final tour plan. Overnight in Istanbul."
+        },
+        {
+          "day": "Day 3",
+          "title": "Bosphorus cruise & travel to Cappadocia",
+          "body": "Enjoy a scenic Bosphorus cruise, then transfer to the airport for your domestic flight to Cappadocia. On arrival, transfer to your hotel. Overnight in Cappadocia."
+        },
+        {
+          "day": "Day 4",
+          "title": "Cappadocia tour",
+          "body": "Explore the region's fairy chimneys, valleys, Göreme area and an underground city. Optional sunrise hot-air balloon flight may be arranged separately, subject to weather and availability. Overnight in Cappadocia."
+        },
+        {
+          "day": "Day 5",
+          "title": "Cappadocia to Istanbul",
+          "body": "Enjoy breakfast and some free time, subject to flight timing. Transfer to the airport for your domestic flight back to Istanbul. Transfer to the hotel. Overnight in Istanbul."
+        },
+        {
+          "day": "Day 6",
+          "title": "Departure",
+          "body": "After breakfast, check out and transfer to Istanbul Airport for your return journey."
+        }
+      ],
+      "inclusions": [
+        "5 nights' hotel accommodation",
+        "Daily breakfast",
+        "Airport transfers and intercity transfers as per final itinerary",
+        "Domestic flights Istanbul–Cappadocia–Istanbul only if stated in the confirmed quotation",
+        "Sightseeing and cruise only as listed in the confirmed package"
+      ],
+      "exclusions": [
+        "International airfare and Turkey visa fee unless specifically included",
+        "Domestic airfare if not stated as included",
+        "Lunches, dinners, drinks and personal expenses",
+        "Optional hot-air balloon flight and other optional activities",
+        "Attraction entrance fees unless specifically listed",
+        "Travel insurance, tips, single-room supplement and services not mentioned"
+      ]
+    }
+  ]
+}
