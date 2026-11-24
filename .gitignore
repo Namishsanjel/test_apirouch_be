@@ -15,3 +15,6 @@ public/uploads/*
 
 # Runtime logs written by PM2
 logs/
+
+# Local database/export archives
+apitours-export.tar.gz

@@ -737,6 +737,7 @@ export interface ApiTourTour extends Struct.CollectionTypeSchema {
   };
   attributes: {
     bestSeason: Schema.Attribute.String;
+    brochure: Schema.Attribute.Media<'files'>;
     category: Schema.Attribute.Enumeration<['trek', 'tour', 'safari']>;
     coverImage: Schema.Attribute.Media<'images'>;
     createdAt: Schema.Attribute.DateTime;

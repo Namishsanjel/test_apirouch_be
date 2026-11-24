@@ -37,6 +37,8 @@ export interface TourItineraryDay extends Struct.ComponentSchema {
     day: Schema.Attribute.String;
     dayLabel: Schema.Attribute.String;
     durationText: Schema.Attribute.String;
+    image: Schema.Attribute.Media<'images'>;
+    imageAlt: Schema.Attribute.String;
     order: Schema.Attribute.Integer;
     points: Schema.Attribute.JSON;
     title: Schema.Attribute.String;
