@@ -29,6 +29,18 @@
     },
     "points": {
       "type": "json"
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "imageAlt": {
+      "type": "string",
+      "required": false
     }
   },
   "config": {}
