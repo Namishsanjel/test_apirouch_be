@@ -10,9 +10,10 @@
  *   SMTP_USERNAME   - SMTP username.
  *   SMTP_PASSWORD   - SMTP password.
  *   EMAIL_FROM      - default sender address.
- *   EMAIL_REPLY_TO  - default reply-to address (falls back to EMAIL_FROM).
+ *   EMAIL_REPLY_TO  - fallback reply-to address (falls back to EMAIL_FROM).
  *   NOTIFY_EMAIL    - recipient(s) for notifications, comma-separated.
- *                     Notifications are skipped when missing.
+ *                     Required: when unset or empty, notifications are skipped
+ *                     (the submission is still saved). There is no fallback.
  *
  * Design rules:
  *   - Never throw: a failed notification must never break a form submission.
@@ -200,10 +201,32 @@ function buildHtmlBody(entry) {
 
 /** Splits the comma-separated NOTIFY_EMAIL list into valid addresses. */
 function parseRecipients(raw) {
-  return String(raw)
+  const seen = new Set();
+
+  return String(raw === undefined || raw === null ? '' : raw)
     .split(',')
     .map((entry) => stripLineBreaks(entry))
-    .filter((entry) => EMAIL_PATTERN.test(entry));
+    .filter((entry) => EMAIL_PATTERN.test(entry))
+    .filter((entry) => {
+      const key = entry.toLowerCase();
+
+      if (seen.has(key)) {
+        return false;
+      }
+
+      seen.add(key);
+
+      return true;
+    });
+}
+
+/**
+ * Resolves the notification recipients: the valid addresses in NOTIFY_EMAIL.
+ * Returns [] when that variable is unset or contains no valid address — the
+ * caller then skips the email (there is no fallback recipient).
+ */
+function resolveRecipients(raw) {
+  return parseRecipients(raw);
 }
 
 /**
@@ -237,30 +260,30 @@ function redact(text, secret) {
  * fire it without awaiting the SMTP round-trip.
  */
 async function sendSubmissionEmail({ entry, subject, kind }) {
-  if (!process.env.SMTP_HOST || !process.env.NOTIFY_EMAIL) {
+  if (!process.env.SMTP_HOST) {
     if (!missingConfigWarned) {
       missingConfigWarned = true;
       strapi.log.warn(
-        '[notify] Email notifications are disabled because SMTP_HOST and/or NOTIFY_EMAIL ' +
-          'are not set. Submission was still saved. See .env.example for the required variables.'
+        '[notify] Email notifications are disabled because SMTP_HOST is not set. ' +
+          'Submission was still saved. See .env.example for the required variables.'
       );
     }
 
     return { sent: false, reason: 'missing-config' };
   }
 
-  const to = parseRecipients(process.env.NOTIFY_EMAIL);
+  const to = resolveRecipients(process.env.NOTIFY_EMAIL);
 
   if (!to.length) {
     if (!missingConfigWarned) {
       missingConfigWarned = true;
       strapi.log.warn(
-        '[notify] Email notifications are disabled because NOTIFY_EMAIL contains no valid ' +
-          'email address. Submission was still saved.'
+        '[notify] NOTIFY_EMAIL is not set; skipping notification email. ' +
+          'Submission was still saved. See .env.example.'
       );
     }
 
-    return { sent: false, reason: 'invalid-recipient' };
+    return { sent: false, reason: 'missing-notify-email' };
   }
 
   const payload = {
@@ -270,10 +293,25 @@ async function sendSubmissionEmail({ entry, subject, kind }) {
     html: buildHtmlBody(entry),
   };
 
-  const replyTo = safeReplyTo(entry && entry.email);
+  // Reply straight to the visitor when they gave a usable address; otherwise
+  // fall back to the configured default reply-to (EMAIL_REPLY_TO, else
+  // EMAIL_FROM), which the email plugin already exposes as defaultReplyTo.
+  const visitorReplyTo = safeReplyTo(entry && entry.email);
 
-  if (replyTo) {
-    payload.replyTo = replyTo;
+  if (visitorReplyTo) {
+    payload.replyTo = visitorReplyTo;
+  } else {
+    // EMAIL_REPLY_TO / EMAIL_FROM may use the "Name <addr>" form, so pull the
+    // bare address out of the angle brackets before validating.
+    const configured = String(
+      process.env.EMAIL_REPLY_TO || process.env.EMAIL_FROM || ''
+    ).trim();
+    const angleMatch = /<([^<>]+)>/.exec(configured);
+    const fallbackReplyTo = safeReplyTo(angleMatch ? angleMatch[1] : configured);
+
+    if (fallbackReplyTo) {
+      payload.replyTo = fallbackReplyTo;
+    }
   }
 
   try {
@@ -351,6 +389,7 @@ module.exports = {
   contactSubmissionSubject,
   escapeHtml,
   parseRecipients,
+  resolveRecipients,
   safeReplyTo,
   stripLineBreaks,
   tripRequestSubject,
